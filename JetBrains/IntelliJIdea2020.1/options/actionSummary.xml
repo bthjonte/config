@@ -1,0 +1,66 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Copy">
+        <ActionSummary times="2" last="1592909551610" />
+      </entry>
+      <entry key="$Undo">
+        <ActionSummary times="17" last="1592909419042" />
+      </entry>
+      <entry key="CheckinProject">
+        <ActionSummary times="1" last="1592908922096" />
+      </entry>
+      <entry key="Compare.Selected">
+        <ActionSummary times="1" last="1592909072692" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="89" last="1592909457796" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="7" last="1592909430090" />
+      </entry>
+      <entry key="EditorCut">
+        <ActionSummary times="1" last="1592908944338" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="20" last="1592909276153" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="8" last="1592909220243" />
+      </entry>
+      <entry key="EditorEscape">
+        <ActionSummary times="15" last="1592909431084" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="31" last="1592909280117" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="4" last="1592909220484" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="18" last="1592909222710" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="3" last="1592909240012" />
+      </entry>
+      <entry key="Github.Create.Gist">
+        <ActionSummary times="1" last="1592909471478" />
+      </entry>
+      <entry key="GotoDeclaration">
+        <ActionSummary times="1" last="1592909297322" />
+      </entry>
+      <entry key="ShowIntentionActions">
+        <ActionSummary times="4" last="1592909236018" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="1" last="1592908867329" />
+      </entry>
+      <entry key="Switcher">
+        <ActionSummary times="1" last="1592909300720" />
+      </entry>
+      <entry key="WelcomeScreen.OpenProject">
+        <ActionSummary times="1" last="1592908850223" />
+      </entry>
+    </data>
+  </component>
+</application>

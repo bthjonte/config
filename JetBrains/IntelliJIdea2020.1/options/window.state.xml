@@ -1,0 +1,28 @@
+<application>
+  <component name="WindowManager">
+    <frame x="-4" y="-4" width="2568" height="1448" />
+    <layout>
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="1066" y="317" width="432" height="462" key="FileChooserDialogImpl" timestamp="1592908853384">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1066" y="317" width="432" height="462" key="FileChooserDialogImpl/0.0.2560.1440" timestamp="1592908853384" />
+    <state width="300" height="298" key="Vcs.CompareWithSelectedRevision.Popup" timestamp="1592909073648">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="300" height="298" key="Vcs.CompareWithSelectedRevision.Popup/0.0.2560.1440" timestamp="1592909073648" />
+    <state x="1285" y="571" key="WELCOME_SCREEN" timestamp="1590400068828">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1285" y="571" key="WELCOME_SCREEN/0.0.2560.1440" timestamp="1590400068828" />
+  </component>
+</application>

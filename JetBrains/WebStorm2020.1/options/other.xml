@@ -1,0 +1,48 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="14.3.0" last-modified="1589964543000" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Fira Code Retina" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="16" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.63697106" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="GeneralSettings.initiallyConfigured" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="/outdated&#10;save&#10;prettier&#10;prettie&#10;pret" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="18" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="1" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="KEYMAP" value="eslint&#10;pret&#10;prettier" />
+    <property name="MarketplacePluginsSearchHistory" value="react&#10;haskell" />
+    <property name="MochaJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="MochaJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="NonModalCommitPromotionState" value="ACCEPTED" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="eslint&#10;prettier&#10;save&#10;pr&#10;plugins" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="Vcs.Log.Text.Filter.History" value="fix em&#10;fix empl&#10;fix employmen&#10;fix" />
+    <property name="WebStorm.disableSafeWrite" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="appcds.runOnSecondStart" value="WS-201.7223.93-ae575b71e867c7ec26ce4345728930332d267e6b3b7d2e5ecfeca9700218582d" />
+    <property name="evlsprt3.201" value="12" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Code/Private/metadata_extractor&#10;/home/freak/Code/Private/Foodforlazy/Backend&#10;/home/freak/Code/Allbinary/installation-user&#10;/home/freak/Code/Allbinary/installation-admin&#10;/home/freak/Code/Allbinary/user-inputs&#10;/home/freak/Code/Allbinary/iwa-ui&#10;/home/freak/Downloads/AllBinary-ont-openneartraffic-de44a32ab3c4&#10;/home/freak/Code/Allbinary/error-reporting&#10;/home/freak/Code/Allbinary/with-profile&#10;/home/freak/Code/Allbinary/google-maps-wrapper" />
+    <property name="file.gist.reindex.count" value="167644" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="ideavim.statistics.timestamp" value="1591955258625" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Code/Private/Foodforlazy/Backend" />
+    <property name="odps.studio.lastUpdateCheckTimestamp" value="1591955253810" />
+    <property name="rerun.tests.notification.shown" value="true" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.8.2" />
+  </component>
+</application>

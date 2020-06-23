@@ -1,0 +1,24 @@
+IdeaVIM
+org.intellij.plugins.markdown
+com.vladsch.idea.multimarkdown
+com.chrisrm.idea.MaterialThemeUI
+com.denis.zaichenko.angular.2.ws.live.templates
+patrick.kelleter.angular-cli-quick-switch
+com.intellij.lang.jsgraphql
+AWSCloudFormation
+SnakeYAML plugin
+YAML/Ansible support
+DBN
+com.intellij.database
+BashSupport
+oorg.bvic23.intellij.plugin.storybook.Storybook
+com.wix.react-templates
+com.jinsihou.react.snippets
+com.intellij.react.css.modules
+org.sylfra.idea.plugins.linessorter
+com.ivanovych666.intellij.plugin.jsonsorter
+cn.yiiguxing.plugin.translate
+com.intellij.lang.graql
+OdpsStudio
+com.wix.eslint
+com.bluewaitor.tsReact

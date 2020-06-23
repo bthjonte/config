@@ -1,0 +1,487 @@
+tmux new-session -t p2p
+cd Code/dat-video-transfer/p2p
+./test.sh 1 12.5m 12.5m
+cat test.sh
+./test.sh 1 12500000 12500000
+cd Code/dat-video-transfer
+cd p2p
+mkdir 100
+mkdir 100/100/1 client
+mkdir 100/100
+mkdir 100/100/"1 client"
+mv result0 100/100/1\ client
+./test.sh 2\ 12500000 12500000
+./test.sh 2 12500000 12500000
+cd Downloads
+adb push ClosetSpace\ Style\ Management_v2.0.9_apkpure.com.apk /storage/emulated/0/Download/
+mkdir 100/100/"2 client"
+mv result* 100/100/2\ client
+./test.sh 10 12500000 12500000
+bc]
+mkdir 100/100/"10 client"
+mv result* 100/100/10\ client
+./test.sh 20 12500000 12500000
+mkdir 100/100/"20 client"
+convert 96B5AFB3D48445C1B28784ED090A709B.webp pants.jpg
+rm .*.jpg
+convert fullsizeoutput_3bdd.webp
+convert fullsizeoutput_3bdd.webp jacket.jpg
+convert IMG_5586.webp jacket.jpg
+rm IMG_5586.webp
+rm *.jpg
+convert C6B3CBC3BDAD445AB0E6C66668C6A9FA.webp jacket.jpg
+mv result* 100/100/20\ client
+./test.sh 1 2812500 12500000
+mkdir 100/22.5/
+mkdir 100/22.5/"1 client"
+mkdir 100/22.5/"2 client"
+mkdir 100/22.5/"10 client"
+mkdir 100/22.5/"20 client"
+remove slack-term-bin
+./test.sh 2 2812500 12500000
+sudo ranger
+install crontab
+systemctl list-timers
+notify-send "You can check your email now
+notify-send "You can check your email now\
+"
+notify-send "You can check your email now\!"\
+
+command systemctl --user enable --now email-alarm.timer
+mv result* 100/22.5/2\ client
+./test.sh 10 2812500 12500000
+cat resul0
+cat result0
+mv result* 100/22.5/10\ client
+./test.sh 20 2812500 12500000
+cat result20
+mv result* 100/22.5/20\ client
+./test.sh 1 2812500 2812500
+cat result0 
+mkdir 22.5
+mkdir 22.5/22.5
+mkdir 22.5/22.5/"1 client"
+mv result* 22.5/22.5/1\ client
+mkdir 22.5/22.5/"2 client"
+./test.sh 10 2812500 2812500
+cat result9
+mkdir 22.5/22.5/"10 client"
+mkdir 22.5/22.5/"20 client"
+mv result* 22.5/22.5/10\ client
+./test.sh 20 2812500 2812500
+cat result19
+l
+./test.sh 2 2812500 2812500
+mv result* 22.5/22.5/2\ client
+netbrake -bps 2812500 
+netbrake -bps 2812500 node server.js
+adb push kdbx.kdbx /storage/emulated/0/.kdbx.kdbx
+tmux new-session -t http
+cd Documents/School/kandidat
+cd curlResult/22.5
+cat /etc/hosts
+mv /etc/hosts
+sudo mv hosts /etc/hosts
+pgrep peer
+pgrep client
+netbrake -bps 12500000 node server.js
+cd 22.5
+mkdir "20 client"
+mkdir "10 client"
+mkdir "1 client"
+mkdir "2 client"
+rm result*
+./loop 2 2812500
+./loop 20 2812500
+pgrep http
+htop
+./loop 10 2812500
+cat 20\ client
+ls 20\ client
+vim tt.yaml
+netbrake --bps 12500000 node server.js
+ls 2\ client
+cd 1000
+ls 1\ client
+netbrake --bps 125000000 node server.js
+redshift -h
+killall redshift
+redshift -x
+install octave
+remove octave
+cat result0 result1 | sed -e 1b -e '$!d' file
+sed -e 1b -e '$!d'result*
+sed -e 1b -e '$!d' result*
+sed -e 1b -e '$!d' result1
+sed -e 1b -e '$!d' result0
+sed  -e '$!d' result0
+sed  -e '$!d' result*
+xargs result*  
+lsof 
+find *result
+find ./*
+find ./result* | xargs sed  -e '$!d' 
+find ./result* | xargs -0 -I sed  -e '$!d' 
+find ./result* | xargs -0 -I file sed  -e '$!d' file
+find ./result*
+cd ../10\ client
+find ./result* | xargs sed  -e '$!d'
+find ./result* | xargs head -n1
+find ./result* | xargs tail -n1
+find ./result* | xargs tail -n1 -q
+ls result
+for dir in .; do (cd "$dir" && find ./result* | xargs tail -n1 -q > result); done\
+\
+\
+\
+\
+
+for dir in ./; do (cd "$dir" && find ./result* | xargs tail -n1 -q > result); done\
+\
+\
+\
+\
+
+for dir in ./; do (cd "$dir" && "find ./result* | xargs tail -n1 -q > result"); done\
+\
+\
+
+cd ../..
+find . -type d -name .git -exec sh -c "cd \"{}\"/../ && find ./result* | xargs tail -n1 -q > result";
+find . -type d -exec sh -c "cd \"{}\"/../ && find ./result* | xargs tail -n1 -q > result";
+find . -type d -exec sh -c "cd \"{}\"/../ && find ./result* | xargs tail -n1 -q > result"\;
+find .  -execdir sh -c "cd \"{}\"/../ && find ./result* | xargs tail -n1 -q > result"\;
+find . -type d -name .git -exec sh -c "cd \"{}\"/../ && pwd && git pull" \;
+find . -type d -name .git -exec sh -c "cd \"{}\"/../ && pwd && find ./result* | xargs tail -n1 -q > result" \;
+find . -type d  -exec sh -c "cd \"{}\"/../ && pwd && find ./result* | xargs tail -n1 -q > result" \;
+cd 100/
+cd 20\ client
+find ./result* 
+find ./result* | cat
+cat result 11
+cat result 22
+cat result5
+cat result6
+cat result8
+install ab
+ab
+cat result |  awk '{print $4}' 
+cat result 
+cat result |  awk '{print $7}'
+vim result |  sed 's/|/ /'
+cat  result1 |  sed 's/|/ /'
+vim result 
+cat  result1 |  sed 's/^M/\\n/'
+cat  result1 |  tr '^M' '\n'
+cat  result1 |  tr '^M' '\n' > result
+cat  result1 |  tr '^M' '\n' > result1
+cat result1 
+find ./result* | xargs tail -n1 -q 
+cat result |  awk '{print $3}' 
+cat result |  awk '{print $2}' 
+cat result |  awk '{print $5}' 
+cat result |  awk '{print $6}' 
+cat  result1 |  tr '    ' ' ' > result1
+cat  result |  tr '    ' ' ' 
+cd 
+sed 's/^M/\\
+/g' result1
+sed 's/^M/\\
+/g' result1 > result
+rm result1
+cat result1 | sed s/^M//â€ƒ¹ > result
+cat result1 | sed 's/^M//â€ƒ¹ > result
+install dos2unix
+dos2unix result1
+vim result1
+dos2unix result1 result
+rm result
+cat result1 > result
+cat -v result1
+cat  result1 |  tr '*^M*' '*\n*' > result
+wget http://localhost:5000/
+cat index.html
+tt lo tt.yaml
+curl -s dl.getipaddr.net/speedtest.sh -o- | bash
+install httpie
+http --download localhost:500 
+netbrake --bps 2812500 node server.js
+http --download localhost:5000
+http --download localhost:5000 > result
+http --download localhost:5000 
+wget localhost:5000/ -h
+wget localhost:5000/ -o result
+wget localhost:5000/ -o result -h
+cat result | head -n1 
+cat result | tail n1
+cat result | tail -n1
+cat result | tail -n1 | sed 's/.*(\(.*\))/\1/'
+cat result | tail -n1 | sed 's/.*(\(.*\))/\1/' > result
+npm init
+cat
+npm install throttle
+npm start 2812500
+npm start 28125
+fuser -k 5000/tcp
+wget localhost:5000/ -o result -O /dev/null
+ifconfiig
+netstat -r
+netstat -r lo
+sudo netstat -r lo
+sudo netstat 
+killall -9 node
+wget localhost:5000/ -o result -i /dev/null
+pgrep node
+killall node
+npm start 22.5
+./loop
+pgrep wget
+cat loop
+netbrake --bps 2812500 'wget localhost:5000/ -o result1 &'
+netbrake --bps 2812500 wget localhost:5000/ -o result1 &
+netbrake --bps 2812500 wget localhost:5000/ -o result1 > /dev/null 
+netbrake --bps 2812500 wget localhost:5000/ -o result1 
+trickle -d 2812.5 -u 2812.5  wget localhost:5000/ -o result1
+trickle
+trickle -d 2812.5 -u 2812.5  wget localhost:5000/ -o result1 &
+trickle -d 2812.5 -u 2812.5  wget localhost:5000/ -o result1 -O /dev/null &
+cat 
+man trickle
+install podman
+vim server.js
+git checkout master server.js
+rm package.json package-lock.json
+rm package.json package-lock.json node_modules
+rm -rf  package.json package-lock.json node_modules
+aliases
+install bfsense
+install pfsense
+touch Dockerfile
+vim Dockerfile
+docker build -t
+docker build -t .
+sudo docker build -t .
+sudo podman build -t .
+podman build . -t hello-world 
+sudo podman build . -t hello-world 
+ipconfig
+docker -run hello-world
+echo 1 > /proc/sys/kernel/unprivileged_userns_clone
+sudo docker network create â€ƒ³-driver bridge new_nw 
+sudo podman network create â€ƒ³-driver bridge new_nw 
+remove podman
+install docker
+zalias
+systemctl start docker
+docker images\
+\\
+
+docker kill nodeapi_mongo_1
+docker ps
+docker kill nodeapi_node_api_1
+docker network prune
+docker run hello-world
+oneplus
+adb push PostNord_v6.3.2_apkpure.com.apk /storage/emulated/0/Download/
+docker kill gallant_benz 
+docker kill 
+docker 
+docker rm $(docker ps -a -q)
+docker images ls
+docker run http:latest
+wget localhost:5000/ -o result1 -O /dev/null &\
+
+docker kill friendly_bartik
+docker kill http
+docker container
+docker containers
+docker container ls
+docker run http:latest -d -p 5000:5000
+docker images\
+
+ip addr add 10.12.0.117/21 dev em1
+ip addr add 10.12.0.117/21 dev lo
+docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' container_name_or_id
+docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' http
+docker images
+docker kill agitated_newton 
+docker rmi $(docker images -q)
+\
+
+docker rm friendly_bartik
+docker rm agitated_newton
+docker rm naughty_raman
+sudo docker build  . -t http 
+docker run -d -p 5000:5000 http:latest
+wget localhost:5000/ -o result1 -O /dev/null \
+
+docker network ls
+docker network inspect bridge
+wget 172.17.0.2:5000/ -o result1 -O /dev/null \
+
+remove docker
+ip link add name bridge_name type bridge
+bridge link
+reboot
+install bridge-utils
+brctl addbr
+brctl addbr http
+wget localhost:8080/ -o result -i /dev/null
+wget 123.123.22.22:5000/ -o result -i /dev/null
+install wondershaper
+install wondershaper-git
+wondershaper -a lo:0 -d 2880 -u 2880
+wondershaper -h
+wget 123.123.22.22:5000/ -o result -O /dev/null
+wget 123.123.22.22:5000/ -o result1 -O /dev/null &
+wget 123.123.22.22:5000/ -o result2 -O /dev/null &
+cd PA1449
+cd frontend
+vim index.html
+git checkout master
+grep -nV  'location.reload'
+grep -nv  'location.reload'
+grep -R 'location.reload' ./src
+npm start
+curl -X GET "http://localhost:3000/tags/courses?tags=1" -H  "accept: application/json" -H  "accessToken:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjExNzIxNjgyMTAwOTkyODc5OTcxNyIsImlhdCI6MTU1NjA5MzgxNywiZXhwIjoxNTU2MTIyNjE3fQ.WYwLt_MSLvyVsCE3beOW1t-PRq3dBUNOZ77W7REWWlY"
+curl -X GET "http://localhost:3000/courses" -H  "accept: application/json" -H  "accessToken:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjExNzIxNjgyMTAwOTkyODc5OTcxNyIsImlhdCI6MTU1NjA5MzgxNywiZXhwIjoxNTU2MTIyNjE3fQ.WYwLt_MSLvyVsCE3beOW1t-PRq3dBUNOZ77W7REWWlY"
+curl -X GET "http://localhost:3000/courses?tags=1" -H  "accept: application/json" -H  "accessToken:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjExNzIxNjgyMTAwOTkyODc5OTcxNyIsImlhdCI6MTU1NjA5MzgxNywiZXhwIjoxNTU2MTIyNjE3fQ.WYwLt_MSLvyVsCE3beOW1t-PRq3dBUNOZ77W7REWWlY"
+curl -X GET "http://localhost:3000/courses/2/tags" -H  "accept: application/json" -H  "accessToken:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjExNzIxNjgyMTAwOTkyODc5OTcxNyIsImlhdCI6MTU1NjA5MzgxNywiZXhwIjoxNTU2MTIyNjE3fQ.WYwLt_MSLvyVsCE3beOW1t-PRq3dBUNOZ77W7REWWlY"
+git force --push
+git rebase --continue
+git pull origin/master
+git pull master
+git fetch origin/release-dev
+git fetch 
+git rebase origin/release/dev
+gi status
+git push 
+fuser -k 3000/tcp
+npm test
+git add test/courses_test.js
+git commit -m "fix test for course"
+mysql -p 
+cd ..
+npm run migrate 
+..
+cd e-learning-backend
+git checkout release/dev
+redshift -P
+cd ../frontend
+npm install 
+npm audit 
+systemctl start mysql
+systemctl start mariadb
+npm run migrate
+npm run seed-all
+npm run dev
+mysql -u root -p 
+git pull origin release/dev
+git status
+ifconfig
+ifconfig lo:0 123.123.22.22
+wondershaper -a lo:0 -d 22500 -u 22500
+killall -9 wget
+vim loop
+./loop 20 2812500 
+cat result7
+cat result4
+ranger
+install chromium
+./loop 10 2812500 
+cat result3
+./loop 1 2812500 
+cat result1
+./loop 2 2812500 
+remove firefox
+update
+cat result2
+cd ../../100
+wondershaper -a lo:0 c
+wondershaper -a lo:0 -c
+exit
+wondershaper -a lo:0 -d 100000 -u 100000
+node server.js
+node server.js &
+install firefox
+cd 100
+./loop 20 12500000
+mv /etc/hosts /etc/hosts2
+remove chromium
+mv result* 20\ client
+./loop 10 12500000
+bc
+ls
+mv result* 10\ client
+./loop 2 12500000
+mv /etc/hosts2 /etc/hosts
+fuck
+mv result* 2\ client
+./loop 1 12500000
+cd ../22.5
+cat result*
+./loop 1 2812500
+mv result* 1\ client
+redshift
+echo ranger
+notify-send $!
+man ranger
+notify-send ranger
+install qutebrowser
+remove qutebrowser
+gc https://github.com/square/maximum-awesome
+rake install
+remove rake
+install rake
+remove ruby-rake
+vim tmux 
+sh tmux
+tmux new-session -t canidate
+find ./result* | xargs tail -n1 -q > result
+cat result1 | tail -n1 | sed 's/.*(\(.*\))/\1/' > result
+cat result
+cat result1 | tail -n1 
+cat result2 | tail -n1 
+cat result2 | tail -2
+cat result1 | tail -n2 | sed 's/.*(\(.*\))/\1/'
+cat result1 | tail -n2 | sed 's/.*(\(.*\))/\1/' 
+cat result1 | tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -d 1
+man cut
+cat result1 | tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1,3
+cat result1 | tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3
+cat result* | tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3 | \
+echo
+cat result* | tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3  
+ls  result*  | tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3  
+ls  result* | xargs  tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3  
+man xargs
+find result* 
+find result* | xargs  tail -n2   
+find result* | xargs  tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3  
+find result* | xargs  tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3 | grep -e [0-9]  
+find result* | xargs  tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3 | grep -e [0-9]*  
+find result* | xargs  tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3 | grep -e '[0-9]*'  
+find result* | xargs  tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3 | grep  '[0-9]*'  
+find result* | xargs  tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3 | grep  [0-9]*  
+find result* | xargs  tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3 | grep -V [0-9]
+find result* | xargs  tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3 | grep -V [0-9]*
+find result* | xargs  tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3 | grep -V '[0-9]*'
+find result* | xargs  tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3 | grep -v '[0-9]*'
+find result* | xargs  tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3 | grep -E '[0-9]*'
+regex
+man regex
+man grep
+find result* | xargs  tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3 | grep  '[0-9]'
+find result* | xargs  tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3 | grep  '[0-9]' 
+vim result
+npm run dev &
+git push
+git push --force
+cd ../e-learning-backend
+git pull
+: 1556262836:0;npm run test
+: 1556472533:0;npm test
+: 1557315939:0;find result* | xargs  tail -n2 | sed 's/.*(\(.*\))/\1/' | cut -c 1-3 | grep  '[0-9]' 
+: 1557315940:0;npm test
+: 1557404779:0;git revert
+: 1557404783:0;git reset --hard

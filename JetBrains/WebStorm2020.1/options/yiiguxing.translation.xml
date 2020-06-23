@@ -1,0 +1,20 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="route derection" />
+      <item value="Validation Layout" />
+      <item value="&lt;span className={classes.arrow} ref={handleArrowRef} /&gt;" />
+      <item value="Apply to all selections" />
+      <item value="Apply to this selection" />
+      <item value="bus stop" />
+      <item value="hållplats" />
+      <item value="employment" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="9" />
+        <entry key="SWEDISH" value="4" />
+      </map>
+    </option>
+  </component>
+</application>

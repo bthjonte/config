@@ -1,0 +1,9 @@
+[Unit]
+Description=Unclutter screen
+
+[Service]
+ExecStart=/usr/bin/unclutter --timeout 1 --fork
+
+[Install]
+WantedBy=default.target
+

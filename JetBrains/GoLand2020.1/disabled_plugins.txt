@@ -1,0 +1,4 @@
+BashSupport
+IdeaVimExtension
+com.chrisrm.idea.MaterialThemeUI
+org.intellij.plugins.markdown

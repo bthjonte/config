@@ -1,0 +1,52 @@
+cat result2
+cat result1
+: 1555858851:0;killall -9 node
+: 1555858857:0;./test.sh 
+: 1555858866:0;vim test.sh
+: 1555858892:0;./test.sh 2 12500000 125000000
+: 1555859641:0;ls
+: 1555859644:0;cat result0
+: 1555859652:0;cat result1
+: 1555859654:0;cat result2
+: 1555859657:0;cat result1
+: 1555859660:0;cat result0
+: 1555859664:0;vim test.sh
+: 1555859690:0;./test.sh 2 12500000 125000000
+: 1555859718:0;vim test.sh
+: 1555859733:0;killall -9 node
+: 1555859734:0;./test.sh 2 12500000 125000000
+: 1555862048:0;mv /etc/hosts /etc/hosts2
+: 1555862049:0;fuck
+: 1555862256:0;cat result0
+: 1555862257:0;cat result1
+: 1555862258:0;cat result2
+: 1555862261:0;cat result0
+: 1555862262:0;cat result1
+: 1555862273:0;cat result0
+: 1555862275:0;cat result1
+: 1555862313:0;killall -9 node
+: 1555862319:0;./test.sh 10 12500000 125000000
+: 1555863154:0;cat result10
+: 1555863157:0;ls
+: 1555863161:0;cat result9
+: 1555863163:0;cat result8
+: 1555863165:0;cat result5
+: 1555863166:0;cat result3
+: 1555863168:0;cat result2
+: 1555863169:0;cat result1
+: 1555863170:0;cat result2
+: 1555863171:0;cat result3
+: 1555863172:0;cat result4
+: 1555863173:0;cat result5
+: 1555863176:0;cat result6
+: 1555863177:0;cat result7
+: 1555863178:0;cat result8
+: 1555863180:0;cat result4
+: 1555863182:0;cat result3
+: 1555863183:0;cat result4
+: 1555863185:0;cat result5
+: 1555863186:0;cat result6
+: 1555864343:0;gimp FirstLogo_Big.png
+: 1556351607:0;npm install @angular/cdk@latest
+: 1556993247:0;npm i bulma-slider
+: 1557042357:0;npm i bulma-tagsinput

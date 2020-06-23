@@ -1,0 +1,1 @@
+The <code>Screen</code> interface represents a screen, usually the one on which the current window is being rendered, and is obtained using <a href="/en-US/docs/Web/API/Window/screen"><code>window.screen</code></a>.

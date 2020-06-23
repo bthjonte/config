@@ -1,0 +1,8 @@
+[core]
+account = jonemail21@gmail.com
+project = roxtec-dev-contentpublisher
+
+[compute]
+zone = europe-west3-a
+region = europe-west3
+

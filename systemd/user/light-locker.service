@@ -1,0 +1,9 @@
+[Unit]
+Description=Light locker
+
+[Service]
+ExecStart=/usr/bin/light-locker --lock-on-suspend --lock-on-lid
+
+[Install]
+WantedBy=default.target
+

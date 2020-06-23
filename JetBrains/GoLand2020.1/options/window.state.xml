@@ -1,0 +1,87 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.2560.1440" x="1071" y="319" />
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1283" y="559" />
+    <location key="SettingsEditor.0.0.2560.1440@144dpi" x="765" y="372" />
+    <location key="FileChooserDialogImpl.0.0.2560.1440@144dpi" x="967" y="257" />
+    <location key="WELCOME_SCREEN.0.0.2560.1440@144dpi" x="1284" y="599" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440@144dpi" x="729" y="334" />
+    <location key="#Go_Modules_(vgo).0.0.2560.1440@144dpi" x="675" y="219" />
+    <location key="search.everywhere.popup.0.0.2560.1440@144dpi" x="769" y="0" />
+    <location key="CommitChangelistDialog2.0.0.2560.1440@144dpi" x="831" y="103" />
+    <location key="DiffContextDialog.0.0.2560.1440@144dpi" x="257" y="145" />
+    <location key="run.anything.popup.0.0.2560.1440@144dpi" x="771" y="334" />
+    <location key="#slcodec-20180328b/Dockerfile.0.0.2560.1440@144dpi" x="953" y="121" />
+    <location key="IDE.errors.dialog.0.0.2560.1440@144dpi" x="657" y="331" />
+    <location key="Vcs.Push.Dialog.0.0.2560.1440@144dpi" x="722" y="182" />
+    <location key="#TestAdeunisDecode_in_bitbucket.org/allbin/senseview/senseview-core/pkg/decoding/adeunis.0.0.2560.1440@144dpi" x="868" y="195" />
+    <location key="RollbackChangesDialog.0.0.2560.1440@144dpi" x="857" y="177" />
+    <location key="MergeDialog.0.0.2560.1440@144dpi" x="0" y="0" />
+    <location key="MultipleFileMergeDialog.0.0.2560.1440@144dpi" x="839" y="302" />
+    <location key="git4idea.merge.GitMergeDialog.0.0.2560.1440@144dpi" x="990" y="430" />
+    <location key="git4idea.branch.GitSmartOperationDialog.0.0.2560.1440@144dpi" x="955" y="195" />
+    <location key="find.popup.0.0.2560.1440@144dpi" x="892" y="374" />
+    <size key="FileChooserDialogImpl.0.0.2560.1440" width="430" height="486" />
+    <size key="SettingsEditor.0.0.2560.1440@144dpi" width="1341" height="826" />
+    <size key="FileChooserDialogImpl.0.0.2560.1440@144dpi" width="630" height="680" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440@144dpi" width="1300" height="862" />
+    <size key="#Go_Modules_(vgo).0.0.2560.1440@144dpi" width="1206" height="978" />
+    <size key="search.everywhere.popup.0.0.2560.1440@144dpi" width="1009" height="1436" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440@144dpi" width="2496" height="267" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440@144dpi" width="2496" height="267" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440@144dpi" width="2496" height="267" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440@144dpi" width="2496" height="267" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440@144dpi" width="2496" height="804" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440@144dpi" width="2496" height="804" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440@144dpi" width="2496" height="804" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440@144dpi" width="2496" height="804" />
+    <size key="CommitChangelistDialog2.0.0.2560.1440@144dpi" width="1110" height="1116" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup.0.0.2560.1440@144dpi" width="450" height="446" />
+    <size key="DiffContextDialog.0.0.2560.1440@144dpi" width="2056" height="1160" />
+    <size key="#slcodec-20180328b/Dockerfile.0.0.2560.1440@144dpi" width="650" height="1173" />
+    <size key="IDE.errors.dialog.0.0.2560.1440@144dpi" width="1242" height="753" />
+    <size key="Vcs.Push.Dialog.0.0.2560.1440@144dpi" width="1105" height="1066" />
+    <size key="#TestAdeunisDecode_in_bitbucket.org/allbin/senseview/senseview-core/pkg/decoding/adeunis.0.0.2560.1440@144dpi" width="833" height="1059" />
+    <size key="RollbackChangesDialog.0.0.2560.1440@144dpi" width="851" height="1092" />
+    <size key="MergeDialog.0.0.2560.1440@144dpi" width="2560" height="1440" />
+    <size key="MultipleFileMergeDialog.0.0.2560.1440@144dpi" width="874" height="827" />
+    <size key="git4idea.merge.GitMergeDialog.0.0.2560.1440@144dpi" width="583" height="583" />
+    <size key="git4idea.branch.GitSmartOperationDialog.0.0.2560.1440@144dpi" width="654" height="1053" />
+    <size key="find.popup.0.0.2560.1440@144dpi" width="830" height="838" />
+  </component>
+  <component name="WindowManager">
+    <frame x="-3" y="-3" width="2566" height="1446" />
+    <layout>
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="968" y="430" width="622" height="672" key="FileChooserDialogImpl" timestamp="1591739173374">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="968" y="430" width="622" height="672" key="FileChooserDialogImpl/0.0.2560.1440" timestamp="1591739173374" />
+    <state width="450" height="446" key="Vcs.CompareWithSelectedRevision.Popup" timestamp="1592070864819">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="450" height="446" key="Vcs.CompareWithSelectedRevision.Popup/0.0.2560.1440" timestamp="1592070864819" />
+    <state x="1284" y="771" key="WELCOME_SCREEN" timestamp="1592210822611">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1284" y="771" key="WELCOME_SCREEN/0.0.2560.1440" timestamp="1592210822611" />
+    <state x="89" y="536" width="1164" height="517" key="bookmarks" timestamp="1588769193204">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="89" y="536" width="1164" height="517" key="bookmarks/0.0.2560.1440" timestamp="1588769193204" />
+  </component>
+</application>

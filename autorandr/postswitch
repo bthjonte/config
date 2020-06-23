@@ -1,0 +1,2 @@
+#!/bin/bash
+hdmi_sound_toggle.sh &

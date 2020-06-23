@@ -1,0 +1,8 @@
+IdeaVIM
+com.webschik.doT
+BashSupport
+org.jetbrains.kotlin
+Docker
+PlantUML integration
+com.haskforce
+NodeJS

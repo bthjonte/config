@@ -1,0 +1,506 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/response-mapping-templates/getRecipe">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/response-mapping-templates/functions/recipe">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/request-mapping-templates/functions/menu">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/request-mapping-templates/functions/ratings">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/request-mapping-templates/getMenu">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/request-mapping-templates/functions/getRecipeByID">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Fn:GetAtt</find>
+      <find>AWS::AppSync::Resolver</find>
+      <find>ApsyncRatingDataSource</find>
+      <find>AppsyncRatingDataSource</find>
+      <find>MenuDynamoRole</find>
+      <find>AppSyncApi</find>
+      <find>AppSyncSchema</find>
+      <find>AWS::DynamoDB::Table</find>
+      <find>MenuLambdaRole</find>
+      <find>AWS::IAM::Role</find>
+      <find>AWS::AppSync::DataSource</find>
+      <find>AppSyncMenuDataSource</find>
+      <find>MenuLambda</find>
+      <find>Role</find>
+      <find>MenuRol</find>
+      <find>Appsyn</find>
+      <find>let AWS = require('aws-sdk');</find>
+      <find>AppsyncRa</find>
+      <find>AppSyncRatingDataSource</find>
+      <find>l2twrk3pifewnpxxr2m7atwuvm</find>
+      <find>AppSyncRatingTableDataSource</find>
+      <find>AppSyncMenuLambdaDataSource</find>
+      <find>identi</find>
+      <find>GraphQlAp</find>
+      <find>#set</find>
+      <find>$.</find>
+      <find>$hit.</find>
+      <find>$hit..</find>
+      <find>hit</find>
+      <find>parseJson</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>Fn::GetAtt</replace>
+      <replace>$</replace>
+      <replace>$hit.</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/resources</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/roles.yml" />
+        <option value="$PROJECT_DIR$/resources/resolver.yml.yaml" />
+        <option value="$PROJECT_DIR$/resources/lambda.yml" />
+        <option value="$PROJECT_DIR$/resources/dynamodb.yml" />
+        <option value="$PROJECT_DIR$/resources/role.yml" />
+        <option value="$PROJECT_DIR$/mapping-templates/getRating" />
+        <option value="$PROJECT_DIR$/mapping-templates/updateRating" />
+        <option value="$PROJECT_DIR$/resources/resolver.yml" />
+        <option value="$PROJECT_DIR$/response-mapping-templates/getRating" />
+        <option value="$PROJECT_DIR$/response-mapping-templates/updateRating" />
+        <option value="$PROJECT_DIR$/response-mapping-templates/getMenu" />
+        <option value="$PROJECT_DIR$/resources/cognito.yml" />
+        <option value="$PROJECT_DIR$/resources/appsync.yml" />
+        <option value="$PROJECT_DIR$/request-mapping-templates/getRating.vtl" />
+        <option value="$PROJECT_DIR$/request-mapping-templates/updateMenu.vtl" />
+        <option value="$PROJECT_DIR$/request-mapping-templates/getMenu.vtl" />
+        <option value="$PROJECT_DIR$/request-mapping-templates/updateMenu" />
+        <option value="$PROJECT_DIR$/request-mapping-templates/updateRating.vtl" />
+        <option value="$PROJECT_DIR$/request-mapping-templates/updateRating" />
+        <option value="$PROJECT_DIR$/response-mapping-templates/getRatings" />
+        <option value="$PROJECT_DIR$/lambda/menu.js" />
+        <option value="$PROJECT_DIR$/lambda/menu.ts" />
+        <option value="$PROJECT_DIR$/serverless.yml" />
+        <option value="$PROJECT_DIR$/resources/datasource.yml" />
+        <option value="$PROJECT_DIR$/request-mapping-templates/getRatings" />
+        <option value="$PROJECT_DIR$/lambda/package.json" />
+        <option value="$PROJECT_DIR$/lambda/node_modules/weighted-arrays/lib/weighted-arrays.js" />
+        <option value="$PROJECT_DIR$/request-mapping-templates/recipe" />
+        <option value="$PROJECT_DIR$/response-mapping-templates/functions/ratings" />
+        <option value="$PROJECT_DIR$/response-mapping-templates/functions/getRatings" />
+        <option value="$PROJECT_DIR$/lambda/app.ts" />
+        <option value="$PROJECT_DIR$/request-mapping-templates/getMenu" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/lambda/app.test.js" />
+        <option value="$PROJECT_DIR$/lambda/app.js" />
+        <option value="$PROJECT_DIR$/response-mapping-templates/functions/finalMenu" />
+        <option value="$PROJECT_DIR$/request-mapping-templates/functions/menu" />
+        <option value="$PROJECT_DIR$/request-mapping-templates/functions/ratings" />
+        <option value="$PROJECT_DIR$/package.yml" />
+        <option value="$PROJECT_DIR$/template.yaml" />
+        <option value="$PROJECT_DIR$/response-mapping-templates/functions/final" />
+        <option value="$PROJECT_DIR$/schema.graphql" />
+        <option value="$PROJECT_DIR$/request-mapping-templates/getRecipe" />
+        <option value="$PROJECT_DIR$/request-mapping-templates/getRating" />
+        <option value="$PROJECT_DIR$/response-mapping-templates/functions/recipe" />
+        <option value="$PROJECT_DIR$/response-mapping-templates/functions/recipeMenu" />
+        <option value="$PROJECT_DIR$/response-mapping-templates/getRecipe" />
+        <option value="$PROJECT_DIR$/request-mapping-templates/functions/getRecipeByID" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="-1" />
+    <option name="width" value="2562" />
+    <option name="height" value="1442" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="request-mapping-templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="request-mapping-templates" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="response-mapping-templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="response-mapping-templates" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="544159000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-1" width="2562" height="1442" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6180867" visible="true" weight="0.31084338" />
+      <window_info id="Structure" order="1" sideWeight="0.24598071" side_tool="true" weight="0.39022437" />
+      <window_info id="npm" order="2" sideWeight="0.3819133" side_tool="true" visible="true" weight="0.31084338" />
+      <window_info id="Favorites" order="3" sideWeight="0.24598071" side_tool="true" weight="0.39022437" />
+      <window_info id="Project Explorer" order="4" />
+      <window_info id="DB Browser" order="5" />
+      <window_info id="Job Explorer" order="6" />
+      <window_info id="Storybook" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49583334" weight="0.4348485" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49076304" weight="0.3437967" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.91586536" weight="0.39880952" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49959937" weight="0.32930514" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.084134616" side_tool="true" weight="0.39909297" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32579187" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4991968" weight="0.32577476" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" weight="0.3308057" />
+      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32572615" />
+      <window_info anchor="bottom" id="REST Client" order="13" weight="0.4297583" />
+      <window_info anchor="bottom" id="GraphQL" order="14" weight="0.35386223" />
+      <window_info anchor="bottom" id="Console" order="15" />
+      <window_info anchor="bottom" id="DB Execution Console" order="16" />
+      <window_info anchor="bottom" id="Database Changes" order="17" />
+      <window_info anchor="bottom" id="Services" order="18" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8677249" visible="true" weight="0.14863782" />
+      <window_info id="Structure" order="1" sideWeight="0.24598071" side_tool="true" weight="0.39022437" />
+      <window_info id="npm" order="2" sideWeight="0.13227513" side_tool="true" visible="true" weight="0.14863782" />
+      <window_info id="Favorites" order="3" sideWeight="0.24598071" side_tool="true" weight="0.39022437" />
+      <window_info id="Project Explorer" order="4" />
+      <window_info id="DB Browser" order="5" />
+      <window_info id="Job Explorer" order="6" />
+      <window_info id="Storybook" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49583334" weight="0.4348485" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49076304" weight="0.34927866" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.91586536" weight="0.39909297" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49959937" weight="0.32930514" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.084134616" side_tool="true" weight="0.39909297" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32579187" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4991968" weight="0.32577476" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" weight="0.3308057" />
+      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32572615" />
+      <window_info anchor="bottom" id="REST Client" order="13" weight="0.4297583" />
+      <window_info anchor="bottom" id="GraphQL" order="14" weight="0.35386223" />
+      <window_info anchor="bottom" id="Console" order="15" />
+      <window_info anchor="bottom" id="DB Execution Console" order="16" />
+      <window_info anchor="bottom" id="Database Changes" order="17" />
+      <window_info anchor="bottom" id="Services" order="18" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/lambda.yml" />
+    <entry file="file://$PROJECT_DIR$/resources/role.yml" />
+    <entry file="file://$PROJECT_DIR$/resources/dynamodb.yml" />
+    <entry file="file://$PROJECT_DIR$/resources/resolver.yml" />
+    <entry file="file://$PROJECT_DIR$/response-mapping-templates/getMenu" />
+    <entry file="file://$PROJECT_DIR$/response-mapping-templates/getRating" />
+    <entry file="file://$PROJECT_DIR$/response-mapping-templates/updateMenu" />
+    <entry file="file://$PROJECT_DIR$/response-mapping-templates/updateRating" />
+    <entry file="file://$PROJECT_DIR$/yarn.lock" />
+    <entry file="file://$PROJECT_DIR$/.serverless/serverless-state.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="373" column="19" selection-start-line="373" selection-start-column="19" selection-end-line="373" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/cognito.yml" />
+    <entry file="file://$PROJECT_DIR$/resources/appsync.yml" />
+    <entry file="file://$PROJECT_DIR$/resources/datasource.yml" />
+    <entry file="file://$PROJECT_DIR$/event.json" />
+    <entry file="file://$PROJECT_DIR$/serverless.yml" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/get-requests.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request-mapping-templates/getAllRatings" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/lambda/node_modules/weighted-arrays/lib/weighted-arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/aws-sdk/lib/dynamodb/document_client.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30668">
+          <caret line="905" column="16" selection-start-line="905" selection-start-column="16" selection-end-line="905" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambda/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request-mapping-templates/getRecipeWithRating" />
+    <entry file="file://$PROJECT_DIR$/node_modules/aws-sdk/clients/dynamodb.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="195" column="143" selection-start-line="195" selection-start-column="143" selection-end-line="195" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambda/app.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambda/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambda/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/response-mapping-templates/functions/menu/ratings" />
+    <entry file="file://$PROJECT_DIR$/package.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+          <folding>
+            <element signature="e#26#38#0" />
+            <element signature="e#50#76#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/response-mapping-templates/functions/finalMenu" />
+    <entry file="file://$PROJECT_DIR$/template.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="91" selection-start-line="23" selection-start-column="91" selection-end-line="23" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request-mapping-templates/updateRating">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.graphql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/response-mapping-templates/functions/final">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request-mapping-templates/getRating">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request-mapping-templates/getRatings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request-mapping-templates/getRecipe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request-mapping-templates/updateMenu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request-mapping-templates/functions/menu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request-mapping-templates/functions/ratings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request-mapping-templates/getMenu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/response-mapping-templates/functions/recipeMenu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/response-mapping-templates/functions/ratings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/response-mapping-templates/getRatings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request-mapping-templates/functions/getRecipeByQuery">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/response-mapping-templates/getRecipe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/response-mapping-templates/functions/recipe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request-mapping-templates/functions/getRecipeByID">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

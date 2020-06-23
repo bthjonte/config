@@ -1,0 +1,873 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Charts/Charts.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="66" column="28" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Charts/ChartWidget.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="223" column="15" selection-start-line="223" selection-start-column="15" selection-end-line="223" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#59#0" expanded="true" />
+                <element signature="e#4306#6226#0" />
+                <element signature="e#7899#8904#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Charts/base_components/combo_chart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="136" column="12" selection-start-line="136" selection-start-column="12" selection-end-line="136" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Charts/ComboChart.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Charts/base_components/io_chart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="943" column="5" selection-start-line="943" selection-start-column="5" selection-end-line="943" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Charts/IOChart.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="879">
+              <caret line="100" column="2" selection-start-line="100" selection-start-column="2" selection-end-line="100" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/RenderView/RenderChart.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/RenderView/RenderView.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="58" column="6" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>allbin-bar</find>
+      <find>cursor: pointer</find>
+      <find>pointer</find>
+      <find>updateSectio</find>
+      <find>chart.showLines</find>
+      <find>clickable</find>
+      <find>set</find>
+      <find>setFeatureOverri</find>
+      <find>'relet</find>
+      <find>relationships_hover</find>
+      <find>relationships_hove</find>
+      <find>squares_hover</find>
+      <find>unclickable</find>
+      <find>&quot;IWA&quot;</find>
+      <find>setJW</find>
+      <find>prototype.init</find>
+      <find>window.sso.prototyp</find>
+      <find>&lt;Route</find>
+      <find>document</find>
+      <find>d</find>
+      <find>state</find>
+      <find>&lt;Charts</find>
+      <find>load</find>
+      <find>setDocument</find>
+      <find>loadingDocument</find>
+      <find>loadingDo</find>
+      <find>chart</find>
+      <find>data</find>
+      <find>chart_id</find>
+      <find>combined_settings</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>const new_settings</replace>
+      <replace>const</replace>
+      <replace>def.</replace>
+      <replace>def.settings</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/state/population</dir>
+      <dir>$PROJECT_DIR$/src/com</dir>
+      <dir>$PROJECT_DIR$/src/</dir>
+      <dir>$PROJECT_DIR$/src/components</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/types</dir>
+      <dir>$PROJECT_DIR$/src/components/documents</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/state/map/actions.ts" />
+        <option value="$PROJECT_DIR$/src/state/map/logic.ts" />
+        <option value="$PROJECT_DIR$/src/state/map/index.ts" />
+        <option value="$PROJECT_DIR$/src/components/documents/Demographics/Demographics.tsx" />
+        <option value="$PROJECT_DIR$/src/components/documents/Demographics/createDemographicsDocument.ts" />
+        <option value="$PROJECT_DIR$/src/components/documents/CommuteWork/createCommuteWorkDocument.ts" />
+        <option value="$PROJECT_DIR$/src/components/documents/Validation/createValidationDocument.ts" />
+        <option value="$PROJECT_DIR$/src/state/employment/map_processing.ts" />
+        <option value="$PROJECT_DIR$/src/components/ControlPanel/ControlPanelTabs/ControlPanelTabs.tsx" />
+        <option value="$PROJECT_DIR$/src/components/ControlPanel/DocumentMenu/ModalContent/Save/SaveModalContent.tsx" />
+        <option value="$PROJECT_DIR$/src/components/documents/Demographics/Controls/Controls.stories.tsx" />
+        <option value="$PROJECT_DIR$/src/components/documents/Demographics/Controls/Controls.tsx" />
+        <option value="$PROJECT_DIR$/src/components/documents/CommuteWork/Controls/Controls.tsx" />
+        <option value="$PROJECT_DIR$/src/state/commute_work/process.ts" />
+        <option value="$PROJECT_DIR$/src/state/population/process.ts" />
+        <option value="$PROJECT_DIR$/src/components/Home/DocumentsTable/DocumentsTable.tsx" />
+        <option value="$PROJECT_DIR$/src/components/Home/DocumentsTable/DocumentsTableRow.tsx" />
+        <option value="$PROJECT_DIR$/src/components/GridTable/GridTable.tsx" />
+        <option value="$PROJECT_DIR$/src/components/SelectionBar/Tab.tsx" />
+        <option value="$PROJECT_DIR$/src/state/map_gtfs/logic.ts" />
+        <option value="$PROJECT_DIR$/src/components/SearchPanel/SearchPanel.tsx" />
+        <option value="$PROJECT_DIR$/src/components/ControlPanel/DocumentMenu/ModalContent/Share/ShareModalContent.tsx" />
+        <option value="$PROJECT_DIR$/src/state/map_regions/logic.ts" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/src/state/scb/repo.ts" />
+        <option value="$PROJECT_DIR$/src/state/employment/process.ts" />
+        <option value="$PROJECT_DIR$/src/state/demographics/logic.ts" />
+        <option value="$PROJECT_DIR$/src/state/population/logic.ts" />
+        <option value="$PROJECT_DIR$/src/state/employment/logic.ts" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/components/Map/generic_helpers.ts" />
+        <option value="$PROJECT_DIR$/src/components/Map/options_and_styles.ts" />
+        <option value="$PROJECT_DIR$/src/components/ControlPanel/ControlPanel.tsx" />
+        <option value="$PROJECT_DIR$/src/components/Preload.tsx" />
+        <option value="$PROJECT_DIR$/src/components/RenderView/RenderView.ts" />
+        <option value="$PROJECT_DIR$/src/components/MainView.tsx" />
+        <option value="$PROJECT_DIR$/src/state/documents/actions.ts" />
+        <option value="$PROJECT_DIR$/src/components/RenderView/RenderGraph.tsx" />
+        <option value="$PROJECT_DIR$/src/components/Charts/Charts.tsx" />
+        <option value="$PROJECT_DIR$/types/docs.d.ts" />
+        <option value="$PROJECT_DIR$/src/components/RenderView/RenderMap.tsx" />
+        <option value="$PROJECT_DIR$/src/index.tsx" />
+        <option value="$PROJECT_DIR$/src/state/commute_work/logic.ts" />
+        <option value="$PROJECT_DIR$/src/components/documents/CommuteWork/CommuteWork.tsx" />
+        <option value="$PROJECT_DIR$/types/general.d.ts" />
+        <option value="$PROJECT_DIR$/src/components/RenderView/RenderView.tsx" />
+        <option value="$PROJECT_DIR$/src/components/Charts/ComboChart.tsx" />
+        <option value="$PROJECT_DIR$/src/components/Charts/IOChart.tsx" />
+        <option value="$PROJECT_DIR$/src/components/RenderView/RenderChart.tsx" />
+        <option value="$PROJECT_DIR$/src/components/Charts/base_components/io_chart.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="-4" y="-4" width="2568" height="1448" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="iwa-ui" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Code/Allbinary/iwa-ui" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Code/Allbinary/iwa-ui" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Code/Allbinary/iwa-ui" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Code/Allbinary/iwa-ui" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Charts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Code/Allbinary/iwa-ui" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="documents" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Code/Allbinary/iwa-ui" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="documents" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Demographics" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Code/Allbinary/iwa-ui" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="GridTable" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Code/Allbinary/iwa-ui" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Hover" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Code/Allbinary/iwa-ui" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Tables" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Code/Allbinary/iwa-ui" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="state" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Code/Allbinary/iwa-ui" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="state" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="map" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="iwa-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iwa-ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iwa-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iwa-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iwa-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Charts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iwa-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Charts" type="462c0819:PsiDirectoryNode" />
+              <item name="base_components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iwa-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="documents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iwa-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="documents" type="462c0819:PsiDirectoryNode" />
+              <item name="CommuteWork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iwa-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iwa-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="RenderView" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iwa-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="SearchPanel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iwa-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="state" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iwa-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="state" type="462c0819:PsiDirectoryNode" />
+              <item name="commute_work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iwa-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="state" type="462c0819:PsiDirectoryNode" />
+              <item name="documents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iwa-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iwa-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="types" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="renders_without_crashing - 2020.02.07 at 15h 13m 31s.xml">
+      <configuration name="renders without crashing" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="395565000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="2568" height="1448" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.43541944" side_tool="true" weight="0.56971157" />
+      <window_info id="Storybook" order="1" sideWeight="0.4389439" side_tool="true" weight="0.27710843" />
+      <window_info id="npm" order="2" sideWeight="0.11643836" side_tool="true" weight="0.25060242" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.56458056" visible="true" weight="0.23237179" />
+      <window_info id="Project Explorer" order="4" />
+      <window_info id="DB Browser" order="5" />
+      <window_info id="Job Explorer" order="6" />
+      <window_info id="Favorites" order="7" sideWeight="0.3502994" side_tool="true" weight="0.25301206" />
+      <window_info anchor="bottom" id="Run" order="0" visible="true" weight="0.22337279" />
+      <window_info anchor="bottom" id="TypeScript" order="1" weight="0.32544377" />
+      <window_info anchor="bottom" id="Console" order="2" />
+      <window_info anchor="bottom" id="Services" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.34319526" />
+      <window_info anchor="bottom" id="DB Execution Console" order="6" weight="0.32988167" />
+      <window_info anchor="bottom" id="GraphQL" order="7" weight="0.32692307" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.4445266" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" weight="0.32986626" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="15" weight="0.40532544" />
+      <window_info anchor="bottom" id="TODO" order="16" weight="0.63744426" />
+      <window_info anchor="bottom" id="Duplicates" order="17" weight="0.42529586" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32932693" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Storybook" order="1" sideWeight="0.4389439" side_tool="true" weight="0.27710843" />
+      <window_info id="npm" order="2" sideWeight="0.11643836" side_tool="true" weight="0.25060242" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.65048546" visible="true" weight="0.25240386" />
+      <window_info id="Project Explorer" order="4" />
+      <window_info id="DB Browser" order="5" />
+      <window_info id="Job Explorer" order="6" />
+      <window_info id="Favorites" order="7" sideWeight="0.34951457" side_tool="true" weight="0.25240386" />
+      <window_info anchor="bottom" id="Run" order="0" visible="true" weight="0.5428994" />
+      <window_info anchor="bottom" id="TypeScript" order="1" weight="0.32618344" />
+      <window_info anchor="bottom" id="Console" order="2" />
+      <window_info anchor="bottom" id="Services" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.5192308" />
+      <window_info anchor="bottom" id="DB Execution Console" order="6" weight="0.32988167" />
+      <window_info anchor="bottom" id="GraphQL" order="7" weight="0.32838038" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3897929" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.4257058" />
+      <window_info anchor="bottom" id="Message" order="11" />
+      <window_info anchor="bottom" id="Find" order="12" weight="0.32988167" />
+      <window_info anchor="bottom" id="Debug" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="16" weight="0.329142" />
+      <window_info anchor="bottom" id="Duplicates" order="17" weight="0.4257058" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297189" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/documents/CommuteWork/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/documents/CommuteWork/createCommuteWorkDocument.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/types/transit.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/types/images.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SearchPanel/SearchPanel.stories.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SearchPanel/SearchPanel.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/processed_data/actions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-370" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/processed_data/reducer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/loading/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/loading/reducer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/loading/types.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/documents/types.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/documents/reducer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/documents/logic.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+            <element signature="e#466#1319#0" />
+            <element signature="e#1355#1966#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/documents/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/documents/actions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/charts/types.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/charts/actions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Auth.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/MainView.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-298">
+          <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/LoadingIndicator.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/charts/reducer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/charts/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/demographics/actions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/documents/Demographics/Demographics.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18975">
+          <caret line="871" column="24" selection-start-line="871" selection-start-column="24" selection-end-line="871" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/documents/ws.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1817">
+          <caret line="79" column="4" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Preload.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/commute_work/map_processing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Map/Map.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="102" column="21" selection-start-line="102" selection-start-column="21" selection-end-line="102" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/commute_work/logic.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="100" column="15" selection-start-line="100" selection-start-column="15" selection-end-line="100" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SavingIndicator.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/documents/CommuteWork/CommuteWorkGuide.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/DocumentController.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Charts/ChartWidget.stories.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/types/charts.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/types/general.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/types/docs.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/documents/CommuteWork/CommuteWork.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="592" column="11" selection-start-line="592" selection-start-column="11" selection-end-line="592" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Charts/DendrogramChart.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Charts/helpers.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/RenderView/RenderMap.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Charts/ChartWidget.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="223" column="15" selection-start-line="223" selection-start-column="15" selection-end-line="223" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+            <element signature="e#4306#6226#0" />
+            <element signature="e#7899#8904#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Charts/Charts.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="66" column="28" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Charts/base_components/combo_chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="136" column="12" selection-start-line="136" selection-start-column="12" selection-end-line="136" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Charts/ComboChart.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/RenderView/RenderView.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="58" column="6" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/RenderView/RenderChart.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Charts/IOChart.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="879">
+          <caret line="100" column="2" selection-start-line="100" selection-start-column="2" selection-end-line="100" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Charts/base_components/io_chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="943" column="5" selection-start-line="943" selection-start-column="5" selection-end-line="943" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

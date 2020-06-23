@@ -1,0 +1,425 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>import_excel</entry>
+        <entry>vehicles_filters</entry>
+        <entry>vehicle</entry>
+        <entry>ve</entry>
+        <entry>this.ve</entry>
+        <entry>vechile</entry>
+        <entry>adv</entry>
+        <entry>filter</entry>
+        <entry>Simple</entry>
+        <entry>advance</entry>
+        <entry>advanced</entry>
+        <entry>action_button</entry>
+        <entry>oh.translate</entry>
+        <entry>s</entry>
+        <entry>Guten</entry>
+        <entry>Goth</entry>
+        <entry>Gut</entry>
+        <entry>issued</entry>
+        <entry>flat</entry>
+        <entry>return</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL0xPQURFRC9MT0FESU5HL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0xPQURFRC9MT0FESU5HX0FCT1JURUQvZw==</entry>
+        <entry encoding="base64">JzwsJz4vcy9oaXQvL2c=</entry>
+        <entry encoding="base64">JzwsJz4vcy9oaXQvJycvZw==</entry>
+        <entry encoding="base64">JzwsJz4vJGhpdC8kL2c=</entry>
+        <entry encoding="base64">JzwsJz4vcy96L3ByZWcvZw==</entry>
+        <entry encoding="base64">JzwsJz4vcy9wcmV2L2c=</entry>
+        <entry encoding="base64">JzwsJz4vei9wcmV2L2c=</entry>
+        <entry encoding="base64">JzwsJz4vcm91dGVfc2hvcnRfbmFtZS9yb3V0ZS5yb3V0ZV9zaG9ydF9uYW1lL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3RoaXMucHJvcHMub3JkZXIvdGhpc19vcmRlci9n</entry>
+        <entry>wq!</entry>
+        <entry>help changeliost</entry>
+        <entry>help changelist</entry>
+        <entry>!</entry>
+        <entry>w!</entry>
+        <entry encoding="base64">JzwsJz5zL3Rib2R5L1RhYmxlQm9keS9n</entry>
+        <entry encoding="base64">JzwsJz5zL3RyL1RhYmxlUm93L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3RoL1RhYmxlQ2VsbC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3RkL1RhYmxlQ2VsbC9n</entry>
+        <entry encoding="base64">JzwsJz5zL1RhYmxlQ2VsbGlzL3RoaXMvZw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/src/object.mjs" timestamp="1591209313649">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/src/mongoose/bookMetaData.js" timestamp="1591271599257">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/src/file.mjs" timestamp="1591209297404">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="21" />
+      </file>
+      <file name="/a.dummy" timestamp="1591270270661">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1591955258618">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/src/parser.js" timestamp="1591268251129">
+        <mark key="[" line="46" column="50" />
+        <mark key="]" line="46" column="53" />
+        <mark key="." line="46" column="52" />
+        <mark key="^" line="46" column="53" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/test/file.js" timestamp="1591273255004">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="55" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/package.json" timestamp="1591258951283">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/src/parser.mjs" timestamp="1591209289723">
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/src/mongoose.js" timestamp="1591269334244">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="21" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/src/main.js" timestamp="1591273909457">
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="38" />
+        <mark key="^" line="37" column="38" />
+        <mark key="." line="37" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/src/xml.js" timestamp="1591273340321">
+        <mark key="[" line="3" column="54" />
+        <mark key="]" line="3" column="53" />
+        <mark key="." line="3" column="52" />
+        <mark key="^" line="3" column="53" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/src/db.js" timestamp="1591219364702">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/src/object.js" timestamp="1591218291990">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/src/mongoose/mongoose.js" timestamp="1591269512619">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/test/parser.js" timestamp="1591262962935">
+        <mark key="[" line="10" column="50" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="10" />
+        <mark key="^" line="13" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/test/parser/parser.js" timestamp="1591261900553">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/src/file.js" timestamp="1591264489271">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/Code/Private/metadata_extractor/src/mongoose/db.js" timestamp="1591272713674">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="11" />
+        <mark key="^" line="15" column="11" />
+        <mark key="." line="15" column="10" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="320" column="30" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="581" column="36" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="770" column="70" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="28" column="0" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="15" column="65" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="769" column="84" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="976" column="25" filename="/MainView.jsx" />
+      <jump line="117" column="42" filename="/MainView.jsx" />
+      <jump line="91" column="58" filename="/MainView.jsx" />
+      <jump line="94" column="38" filename="/MainView.jsx" />
+      <jump line="798" column="39" filename="/MainView.jsx" />
+      <jump line="951" column="63" filename="/MainView.jsx" />
+      <jump line="796" column="55" filename="/MainView.jsx" />
+      <jump line="206" column="42" filename="/MainView.jsx" />
+      <jump line="197" column="42" filename="/MainView.jsx" />
+      <jump line="760" column="44" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="754" column="70" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="635" column="62" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="160" column="25" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="166" column="20" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="328" column="30" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="589" column="36" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="778" column="97" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="848" column="24" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="190" column="53" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="24" column="12" filename="$USER_HOME$/Code/Allbinary/installation-admin/package.json" />
+      <jump line="27" column="49" filename="$USER_HOME$/Code/Allbinary/installation-admin/package.json" />
+      <jump line="29" column="47" filename="$USER_HOME$/Code/Allbinary/installation-admin/package.json" />
+      <jump line="30" column="50" filename="$USER_HOME$/Code/Allbinary/installation-admin/package.json" />
+      <jump line="31" column="51" filename="$USER_HOME$/Code/Allbinary/installation-admin/package.json" />
+      <jump line="32" column="49" filename="$USER_HOME$/Code/Allbinary/installation-admin/package.json" />
+      <jump line="5" column="10" filename="$USER_HOME$/Code/Allbinary/installation-admin/package.json" />
+      <jump line="9" column="56" filename="$USER_HOME$/Code/Allbinary/installation-admin/package.json" />
+      <jump line="11" column="51" filename="$USER_HOME$/Code/Allbinary/installation-admin/package.json" />
+      <jump line="13" column="50" filename="$USER_HOME$/Code/Allbinary/installation-admin/package.json" />
+      <jump line="749" column="52" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="277" column="13" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="423" column="30" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="259" column="26" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="1112" column="0" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="254" column="13" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="1083" column="27" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="48" column="62" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="52" column="24" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="139" column="13" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="151" column="25" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="303" column="28" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="308" column="44" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="319" column="12" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="324" column="31" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="386" column="0" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="388" column="13" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="403" column="39" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="506" column="14" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="509" column="21" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="526" column="12" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="528" column="63" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="537" column="32" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="600" column="25" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="572" column="40" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="694" column="57" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="685" column="59" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="410" column="30" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="22" column="0" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="478" column="49" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="58" column="0" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="421" column="0" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="446" column="17" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="398" column="32" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="406" column="13" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="445" column="17" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="438" column="4" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="7" column="42" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="266" column="18" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="62" column="8" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="276" column="13" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="425" column="58" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="427" column="43" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="255" column="13" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="426" column="58" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="428" column="43" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="431" column="29" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="19" column="19" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/helpers/entity_helpers.js" />
+      <jump line="568" column="20" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="495" column="14" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="161" column="0" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="129" column="0" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="430" column="39" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="429" column="57" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="435" column="29" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="474" column="31" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/components/views/MainView.jsx" />
+      <jump line="18" column="20" filename="$USER_HOME$/Code/Allbinary/installation-admin/src/translations.js" />
+      <jump line="18" column="38" filename="$USER_HOME$/Code/Private/metadata_extractor/src/parser.js" />
+      <jump line="30" column="5" filename="$USER_HOME$/Code/Private/metadata_extractor/src/parser.js" />
+      <jump line="32" column="5" filename="$USER_HOME$/Code/Private/metadata_extractor/src/parser.js" />
+      <jump line="5" column="23" filename="$USER_HOME$/Code/Private/metadata_extractor/src/parser.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/Code/Private/metadata_extractor/src/parser.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Code/Private/metadata_extractor/src/parser.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/Code/Private/metadata_extractor/src/parser.js" />
+      <jump line="46" column="29" filename="$USER_HOME$/Code/Private/metadata_extractor/src/parser.js" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
+      </register>
+      <register name="l" type="4">
+        <keys>
+          <key char="108" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>return</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgbW9uZ29vc2UgPSByZXF1aXJlKCdtb25nb29zZScpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICB9IGNhdGNoIChlKSB7CiAgICBjb25zb2xlLmVycm9yKGUpOwogIH0K</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICB0cnkgewo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBsb2cuaW5mbygnQ29ubmVjdGVkIHRvIGRhdGFiYXNlJyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBsYXVuY2hNeVNlcnZlcigpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cmV0dXJuIHJlYWRSREZEaXJlY3RvcnkocHJvY2Vzcy5hcmd2WzJdKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtb25nb29zZS5jb25uZWN0aW9uLnJlYWR5U3RhdGUpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2cobW9uZ29vc2UuY29ubmVjdGlvbi5yZWFkeVN0YXRlKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL1RhYmxlQ2VsbGlzL3RoaXMvZw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>return</last-search>
+      <last-offset />
+      <last-pattern>return</last-pattern>
+      <last-replace>this</last-replace>
+      <last-substitute>TableCellis</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

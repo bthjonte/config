@@ -1,0 +1,112 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://localhost:7777/decode",
+		"timestamp": 1589357722081
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.67.0 OpenSSL/1.1.1d zlib/1.2.11 nghttp2/1.29.0",
+		"timestamp": 1589357722081
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2020-05-13T08:15:22.081Z",
+		"timestamp": 1589357722081
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1589357722081
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1589357722081
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1589357722081
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1589357722084
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying ::1:7777...\n",
+		"timestamp": 1589357722094
+	},
+	{
+		"name": "TEXT",
+		"value": "TCP_NODELAY set\n",
+		"timestamp": 1589357722094
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to localhost (::1) port 7777 (#0)\n",
+		"timestamp": 1589357722094
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /decode HTTP/1.1\r\nHost: localhost:7777\r\nUser-Agent: insomnia/7.1.1\r\nAuthorization: Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjE0MCwidXNlcm5hbWUiOiJqb25hdGhhbi5hcnRiYWNrQGFsbGJpbmFyeS5zZSIsImZpcnN0X25hbWUiOiJKb25hdGhhbiIsImxhc3RfbmFtZSI6IkFydGJhY2siLCJlbWFpbCI6ImpvbmF0aGFuLmFydGJhY2tAYWxsYmluYXJ5LnNlIiwib3JnIjoiYWxsYmluYXJ5IiwibGFuZyI6InN2LVNFIiwic3ZjIjoiZGFzaGJvYXJkIiwiaWF0IjoxNTg4OTI1MTM0LCJpc3MiOiJBbGxCaW5hcnkiLCJuYmYiOjE1ODg5MjQ1MzQsImV4cCI6MTU4ODkyNTczNCwibG9naW4iOnRydWV9.X6bZoQFFJJU4bzmH5Ha-r8iOChxtS801c4UmKhA4OukpOGQ5p8HRty9beI0eIfnMxLghNI9lgQIMh5u2e514Rw\r\nAccept: */*\r\nContent-Length: 0\r\n\r\n",
+		"timestamp": 1589357722094
+	},
+	{
+		"name": "TEXT",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1589357722094
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 401 Unauthorized\r\n",
+		"timestamp": 1589357722094
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1589357722094
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Vary: Origin\r\n",
+		"timestamp": 1589357722094
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-Content-Type-Options: nosniff\r\n",
+		"timestamp": 1589357722094
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Wed, 13 May 2020 08:15:22 GMT\r\n",
+		"timestamp": 1589357722094
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 42\r\n",
+		"timestamp": 1589357722094
+	},
+	{
+		"name": "TEXT",
+		"value": "HTTP error before end of send, stop sending\n",
+		"timestamp": 1589357722094
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1589357722094
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 42 B chunk",
+		"timestamp": 1589357722094
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 0\n",
+		"timestamp": 1589357722094
+	}
+]

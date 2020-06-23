@@ -1,0 +1,6 @@
+com.vladsch.idea.multimarkdown
+com.chrisrm.idea.MaterialThemeUI
+cn.yiiguxing.plugin.translate
+BashSupport
+tslint
+DBN

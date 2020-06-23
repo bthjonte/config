@@ -1,0 +1,24 @@
+2020/06/20-16:00:00.325 155e Reusing MANIFEST /home/freak/.config/Standard Notes/Local Storage/leveldb/MANIFEST-000001
+2020/06/20-16:00:00.327 155e Recovering log #691
+2020/06/20-16:00:00.328 155e Reusing old log /home/freak/.config/Standard Notes/Local Storage/leveldb/000691.log 
+2020/06/20-22:29:15.887 eb3e8 Level-0 table #695: started
+2020/06/20-22:29:15.892 eb3e8 Level-0 table #695: 13098 bytes OK
+2020/06/20-22:29:15.898 eb3e8 Delete type=0 #691
+2020/06/22-11:57:04.078 eb3e8 Level-0 table #697: started
+2020/06/22-11:57:04.083 eb3e8 Level-0 table #697: 13063 bytes OK
+2020/06/22-11:57:04.093 eb3e8 Delete type=0 #694
+2020/06/22-21:50:59.838 eb3e8 Level-0 table #699: started
+2020/06/22-21:50:59.843 eb3e8 Level-0 table #699: 12968 bytes OK
+2020/06/22-21:50:59.852 eb3e8 Delete type=0 #696
+2020/06/22-21:50:59.852 eb3e8 Compacting 4@0 + 1@1 files
+2020/06/22-21:50:59.857 eb3e8 Generated table #700@0: 6 keys, 780 bytes
+2020/06/22-21:50:59.858 eb3e8 Compacted 4@0 + 1@1 files => 780 bytes
+2020/06/22-21:50:59.861 eb3e8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/22-21:50:59.862 eb3e8 Delete type=2 #690
+2020/06/22-21:50:59.862 eb3e8 Delete type=2 #692
+2020/06/22-21:50:59.862 eb3e8 Delete type=2 #695
+2020/06/22-21:50:59.862 eb3e8 Delete type=2 #697
+2020/06/22-21:50:59.862 eb3e8 Delete type=2 #699
+2020/06/23-16:59:33.288 eb3e8 Level-0 table #702: started
+2020/06/23-16:59:33.292 eb3e8 Level-0 table #702: 12922 bytes OK
+2020/06/23-16:59:33.300 eb3e8 Delete type=0 #698

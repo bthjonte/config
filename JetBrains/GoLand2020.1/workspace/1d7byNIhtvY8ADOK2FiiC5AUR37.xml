@@ -1,0 +1,556 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recipe/nutrients.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="610">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recipe/recipe_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="241" column="30" selection-start-line="241" selection-start-column="30" selection-end-line="241" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/food/food_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recipe/ingredient.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>err</find>
+      <find>http</find>
+      <find>if err != nil</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/edamam/http.go" />
+        <option value="$PROJECT_DIR$/food/article_test.go" />
+        <option value="$PROJECT_DIR$/food/articles_test.json" />
+        <option value="$PROJECT_DIR$/food/body.go" />
+        <option value="$PROJECT_DIR$/food/articles_test.go" />
+        <option value="$PROJECT_DIR$/internal/food/food.go" />
+        <option value="$PROJECT_DIR$/food/food.go" />
+        <option value="$PROJECT_DIR$/internal/network/http.go" />
+        <option value="$PROJECT_DIR$/food/articles.go" />
+        <option value="$PROJECT_DIR$/edamam/error.go" />
+        <option value="$PROJECT_DIR$/pkg/food/articles_test.go" />
+        <option value="$PROJECT_DIR$/pkg/food/body.go" />
+        <option value="$PROJECT_DIR$/pkg/food/articles.go" />
+        <option value="$PROJECT_DIR$/pkg/food/links.go" />
+        <option value="$PROJECT_DIR$/pkg/edamam/api.go" />
+        <option value="$PROJECT_DIR$/pkg/edamam/credentials.go" />
+        <option value="$PROJECT_DIR$/pkg/recipe.go" />
+        <option value="$PROJECT_DIR$/testdata/recipes_test.json" />
+        <option value="$PROJECT_DIR$/pkg/edamam/links.go" />
+        <option value="$PROJECT_DIR$/pkg/nutrition/nutrients.go" />
+        <option value="$PROJECT_DIR$/internal/edamam/links.go" />
+        <option value="$PROJECT_DIR$/pkg/food/article.go" />
+        <option value="$PROJECT_DIR$/pkg/food/article_test.go" />
+        <option value="$PROJECT_DIR$/internal/edamam/Error.go" />
+        <option value="$PROJECT_DIR$/pkg/recipe/ingredient.go" />
+        <option value="$PROJECT_DIR$/pkg/recipe/body.go" />
+        <option value="$PROJECT_DIR$/pkg/recipe/recipes_test.go" />
+        <option value="$PROJECT_DIR$/pkg/edamam/nutrients.go" />
+        <option value="$PROJECT_DIR$/pkg/food/nutrients.go" />
+        <option value="$PROJECT_DIR$/pkg/recipe/nutrients.go" />
+        <option value="$PROJECT_DIR$/pkg/recipe/recipe_test.go" />
+        <option value="$PROJECT_DIR$/pkg/edamam/error.go" />
+        <option value="$PROJECT_DIR$/pkg/recipe/api_test.go" />
+        <option value="$PROJECT_DIR$/pkg/edamam/range.go" />
+        <option value="$PROJECT_DIR$/pkg/recipe/api.go" />
+        <option value="$PROJECT_DIR$/pkg/food/api.go" />
+        <option value="$PROJECT_DIR$/pkg/recipe/query_test.go" />
+        <option value="$PROJECT_DIR$/pkg/recipe/recipes.go" />
+        <option value="$PROJECT_DIR$/pkg/food/foods_test.go" />
+        <option value="$PROJECT_DIR$/pkg/food/foods.go" />
+        <option value="$PROJECT_DIR$/pkg/recipe/recipe.go" />
+        <option value="$PROJECT_DIR$/pkg/food/food_test.go" />
+        <option value="$PROJECT_DIR$/pkg/food/query.go" />
+        <option value="$PROJECT_DIR$/pkg/food/query_test.go" />
+        <option value="$PROJECT_DIR$/pkg/food/food.go" />
+        <option value="$PROJECT_DIR$/pkg/recipe/query.go" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/internal/test/mock.go" />
+        <option value="$PROJECT_DIR$/recipe/nutrients.go" />
+        <option value="$PROJECT_DIR$/recipe/recipe_test.go" />
+        <option value="$PROJECT_DIR$/food/food_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="-3" y="-3" width="2566" height="1446" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="edamamWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edamamWrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edamamWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edamamWrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="food" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edamamWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edamamWrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edamamWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edamamWrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edamamWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edamamWrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edamamWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edamamWrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="recipe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edamamWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="edamamWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.14.4" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+            <path>
+              <item name="edamamWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.14.4" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edamamWrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.14.4" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="os" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-134" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestQuery_GetURL_in_github_com_artback_edamamWrapper_pkg_food - 2020.06.16 at 20h 47m 28s.xml">
+      <configuration name="TestQuery_GetURL in github.com/artback/edamamWrapper/pkg/food" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestQuery_GetURL_in_github_com_artback_edamamWrapper_pkg_food - 2020.06.17 at 11h 40m 27s.xml">
+      <configuration name="TestQuery_GetURL in github.com/artback/edamamWrapper/pkg/food" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetArticles_in_github_com_artback_edamamWrapper_food - 2020.06.23 at 11h 24m 10s.xml">
+      <configuration name="TestGetArticles in github.com/artback/edamamWrapper/food" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetArticles_in_github_com_artback_edamamWrapper_food - 2020.06.23 at 11h 26m 11s.xml">
+      <configuration name="TestGetArticles in github.com/artback/edamamWrapper/food" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetArticles_in_github_com_artback_edamamWrapper_food - 2020.06.23 at 14h 32m 21s.xml">
+      <configuration name="TestGetArticles in github.com/artback/edamamWrapper/food" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetRecipes_in_github_com_artback_edamamWrapper_recipe - 2020.06.23 at 14h 32m 27s.xml">
+      <configuration name="TestGetRecipes in github.com/artback/edamamWrapper/recipe" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetRecipes_in_github_com_artback_edamamWrapper_recipe - 2020.06.23 at 14h 35m 02s.xml">
+      <configuration name="TestGetRecipes in github.com/artback/edamamWrapper/recipe" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetRecipes_in_github_com_artback_edamamWrapper_recipe - 2020.06.23 at 14h 43m 37s.xml">
+      <configuration name="TestGetRecipes in github.com/artback/edamamWrapper/recipe" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetRecipes_in_github_com_artback_edamamWrapper_recipe - 2020.06.23 at 14h 44m 28s.xml">
+      <configuration name="TestGetRecipes in github.com/artback/edamamWrapper/recipe" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestGetRecipes_in_github_com_artback_edamamWrapper_recipe - 2020.06.23 at 14h 55m 25s.xml">
+      <configuration name="TestGetRecipes in github.com/artback/edamamWrapper/recipe" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Commit" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3348659" />
+      <window_info anchor="bottom" id="Services" order="14" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23678161" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18950321" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="16" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="right" id="make" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32796934" />
+      <window_info anchor="bottom" id="Flow" order="10" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.30957854" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32796934" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Commit" order="3" />
+      <window_info anchor="bottom" id="Services" order="13" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32950193" />
+      <window_info anchor="right" id="make" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Flow" order="9" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32950193" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/lib/go/src/io/io.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="125" column="5" selection-start-line="125" selection-start-column="5" selection-end-line="125" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/go/src/net/http/response.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          <folding>
+            <element signature="e#919#985#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/go/src/go/types/object.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="326" column="9" selection-start-line="326" selection-start-column="9" selection-end-line="326" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food/food/food.go" />
+    <entry file="file:///usr/lib/go/src/net/http/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food/Ingredient.go" />
+    <entry file="file:///usr/lib/go/src/encoding/json/decode.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="95" column="5" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/read/string.go" />
+    <entry file="file://$PROJECT_DIR$/internal/food/food.go" />
+    <entry file="file:///usr/lib/go/src/builtin/builtin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1047">
+          <caret line="260" column="4" selection-start-line="260" selection-start-column="4" selection-end-line="260" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testdata/articles_test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#666#1069#0" />
+            <element signature="e#3347#6049#0" />
+            <element signature="e#6055#8754#0" />
+            <element signature="e#8760#10186#0" />
+            <element signature="e#10192#11696#0" />
+            <element signature="e#11702#13706#0" />
+            <element signature="e#13712#15192#0" />
+            <element signature="e#15198#16712#0" />
+            <element signature="e#16718#18271#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/edamam/error.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/edamam/links.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/network/http.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testdata/recipes_test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="93" column="11" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/go/src/net/url/url.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="357" column="10" selection-start-line="357" selection-start-column="10" selection-end-line="357" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkg/edamam/credentials.go" />
+    <entry file="file://$PROJECT_DIR$/pkg/food/foods_test.go" />
+    <entry file="file://$PROJECT_DIR$/pkg/food/foods.go" />
+    <entry file="file://$PROJECT_DIR$/edamam/error.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+          <folding>
+            <element signature="n#!!block;n#Error#0" />
+            <element signature="n#!!block;n#Error#1" />
+            <element signature="n#!!block;n#Error#2" />
+            <element signature="n#!!block;n#Error#4" />
+            <element signature="n#!!block;n#Error#5" />
+            <element signature="n#!!block;n#Error#6" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edamam/range.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food/body.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food/food.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <element signature="e#787#832#0" expanded="true" />
+            <element signature="e#901#949#0" expanded="true" />
+            <element signature="e#1100#1144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food/query.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="n#!!block;n#GetURL#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food/nutrients.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food/query_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe/recipe.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!block;n#getRecipes#0" />
+            <element signature="n#!!block;n#unmarshalReader#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe/body.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe/query_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#16#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe/query.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/go/src/os/error.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe/nutrients.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/test/mock.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+          <folding>
+            <element signature="e#166#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cover.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe/ingredient.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe/recipe_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="241" column="30" selection-start-line="241" selection-start-column="30" selection-end-line="241" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food/food_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

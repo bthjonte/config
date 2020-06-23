@@ -1,0 +1,52 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Code/Private/Foodforlazy/Backend">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1RVhcn2zFc1ACz7B5yL1XfDcWmJ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.7223.93" />
+              <option name="buildTimestamp" value="1588234324164" />
+              <frame x="-4" y="-4" width="2568" height="1448" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1591015875719" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/Allbinary/untitled">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1coHragKbREZeon51LbsZ7nl70A">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.7223.93" />
+              <option name="buildTimestamp" value="1588234340676" />
+              <frame x="-4" y="-4" width="2568" height="1448" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1591193141064" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/Private/metadata_extractor">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1coHragKbREZeon51LbsZ7nl70A">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-201.7846.79" />
+              <option name="buildTimestamp" value="1591087765948" />
+              <frame x="-1" y="-1" width="2562" height="1442" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1591955252491" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Code/Allbinary" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Code/Private/metadata_extractor" />
+        <option value="$USER_HOME$/Code/Allbinary/untitled" />
+        <option value="$USER_HOME$/Code/Private/Foodforlazy/Backend" />
+      </list>
+    </option>
+  </component>
+</application>

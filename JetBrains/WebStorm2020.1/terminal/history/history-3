@@ -1,0 +1,65 @@
+redshift
+man sls
+man serverless
+sls -h
+sls deploy -h
+cal 
+cal  -3 n
+cal  -n 3
+aws s3 cp schema.graphql s3://my-lazy-api-dev-serverlessdeploymentbucket-1307wlmxjya0j/schema.graphql
+npm outdated
+npm list -g --depth=0
+sudo npm uninstall claudia
+sudo npm uninstall -g  claudia
+sudo npm install -g --force
+npm install --force
+sudo npm install --force -g
+sudo npm update --force -g
+npm -g outdated
+trizen -S i3lock-color
+install i3lock-color
+mkdir /home/freak/.cache/i3lock/
+install betterlockscreen
+remove betterlockscreen
+install betterlockscreen-git
+betterlockscreen --lock blur
+git pull
+aws cloudformation describe-stacks
+git commit -m .
+git rm response-mapping-templates/
+git rm -r  response-mapping-templates/
+git add .
+git commit -m "serverless stack now deploys"
+sls deploy --force
+cd backend
+ls
+git add .gitignore
+git add resources/appsync.yml
+git commit -m "added output"
+git push
+vim .gitignore
+sudo fuser -k 4200/tcp
+git status
+sudo npm install --force 
+npm update --force 
+npm unistall uirouter/angular
+npm unistall uirouter
+npm uninstall uirouter
+npm uninstall uirouter/angular
+npm uninstall @uirouter/angular@2.0.4
+npm uninstall @uirouter
+npm install typescript@3.3
+npm install typescript@3.2.0
+npm install typescript@3.2.4
+npm install typescript@3.2.6
+npm install typescript@3.1.6
+npm remove 
+npm remove @uirouter/angular
+npm audit fix
+: 1549205664:0;amplify configure
+: 1549206086:0;amplify status
+: 1549212015:0;amplify init
+: 1549219520:0;npm install --save angular-bulma
+: 1549220109:0;npm uninstall --save angular-bulma
+: 1549220536:0;npm install --save bulma
+: 1549223827:0;npm i @types/node

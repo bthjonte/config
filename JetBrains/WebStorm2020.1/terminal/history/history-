@@ -1,0 +1,19 @@
+bc
+serverless deploy -v
+install tmux
+bc
+: 1547116783:0;bc
+: 1547122877:0;df
+: 1547482343:0;git init
+: 1547482360:0;git remote add origin git@bitbucket.org:JonathanArtback/lazyappsyncserverlessbackend.git
+: 1547482362:0;git push -u origin master
+: 1547482417:0;git remove node_modules
+: 1547482439:0;git reset --soft HEAD^ 
+: 1547482445:0;git reset --soft  
+: 1547482551:0;git add .
+: 1547482554:0;git commit -m "initial commit"
+: 1547482559:0;git push
+: 1547482564:0;    git push --set-upstream origin master
+: 1547497244:0;
+: 1547497247:0;clean
+: 1547497249:0;clear

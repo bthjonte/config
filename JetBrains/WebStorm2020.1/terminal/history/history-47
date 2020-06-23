@@ -1,0 +1,288 @@
+sudo wondershaper -a lo -d 8192 -u 8192
+man parallel
+man seq
+sudo wondershaper -a lo -u 100000 -d 22500
+= 692+709+711
+= (692+709+711)/3
+= "(692+709+711)/3"
+tmuxp load ~/.config/p2p.yaml
+bc 
+curl localhost:5000/ --output file
+..
+cd http
+man curl
+wget http://localhost:5000
+wget http://localhost:5000 
+wget http://localhost:5000 http://localhost:5000
+curl http://localhost:5000 http://localhost:5000
+curl http://localhost:5000 http://localhost:5000 --output /dev/null
+install ab
+install apache-tools
+ab
+ab -n 2 http://localhost:5000/
+sudo wireshark
+ffmpeg -ss 00:00:00 -t 00:15:00 -i angel.mkv -vcodec copy -acodec copy angel2.mkv
+vim server.js
+fuser -k 5000/tcp
+curl localhost:5000/ --output /dev/null
+sudo wondershaper -a lo -d 100000 -u 100000
+seq 2 | parallel -n0 "curl localhost:5000/ --output /dev/null"
+nc
+seq 10 | parallel -n0 "curl localhost:5000/ --output /dev/null"
+perl -e 'print "/path/to/process.php\n" x 100'
+perl -e 'print "curl localhost:5000/ --output /dev/null" x 10'
+perl -e 'print "curl localhost:5000/ --output /dev/null\n" x 10'
+perl -e 'print "curl localhost:5000/ --output /dev/null\n" x 10' | | xargs -P 100 -I {} sh {} 
+perl -e 'print "curl localhost:5000/ --output /dev/null\n" x 10' |  xargs -P 100 -I {} sh {} 
+perl -e 'print "curl localhost:5000/ --output /dev/null\n" x 10' 
+perl -e 'print "curl localhost:5000/ --output /dev/null\n" x 10' |  xargs -P 10 -I {} curl localhost:5000/ --output /dev/null 
+vim ./run-parallel.sh
+chmod +x run-parallel.sh
+./run-parallel.sh bash "curl localhost:5000/ --output /dev/null"
+./run-parallel.sh "curl localhost:5000/ --output /dev/null"
+seq 10 | parallel -n0 "curl localhost:5000/ --output /dev/null &"
+seq 10 | parallel -n0 "curl localhost:5000/ --output /dev/null &> file"
+seq 10 | parallel -n0 "curl localhost:5000/ --output /dev/null &>> file"
+mkdir curlreq
+mv curlrequst curlreq/
+cd curlreq
+chmod +x curlrequst
+less file1
+less file2
+cat file
+vim curlreq/curlrequst
+vim 
+killall curl
+vim curlrequst
+curl localhost:5000/ --output /dev/null &> "file$i" &\
+
+killall -9 curl
+pgrep curl | kill
+kill 6556
+kill -9 6556
+sudo wondershaper -a lo -d 100000 -u 22500
+ranger
+cat file2
+cat file6
+rm -rf file*
+cat file7
+cat file5
+htop
+cat file9
+sudo killall -9 curl
+remove tmuxp
+vim .tmux.conf
+node server.js
+sudo wondershaper -a lo -d 22500 -u 100000
+cat file3
+cat file4
+= 313*2+296+295+296
+= "(313*2+296+295+296)/6"
+= "252*8*10"
+= "252*8"
+sudo wondershaper -a lo -u 22500 -d 100000
+cat file8
+cat file9
+cat file* | sed '/^%/ d'
+cat file* | sed '/^ / d' | cut -d, -f7
+cat file* | sed '/^ / d' | cut -d, -f,17
+cat file* | sed '/^ / d' | cut -d, -f1,7
+cat file* | sed '/^ / d' | print '$4'
+cat file* | sed '/^ / d' | awk '{print $4}'
+cat file* | sed '/^ / d' | awk '{print $3}'
+cat file* | sed '/^ / d' | awk '{print $1}'
+cat file* | sed '/^ / d' | awk '{print $10}'
+cat file* | sed '/^ / d'
+cat file* | sed '/^ / d' | awk '{print $6}'
+cat file* | sed '/^ / d' | awk '{print $7}'
+cat file* | sed '/^ / d' | awk '{print $8}'
+cat file* | sed '/^ / d' | awk '{print $9}'
+cat file* | sed '/^ / d' | awk '{print $11}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $3}\
+'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $4}\
+'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $5}\
+'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $11}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $12}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $13}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $15}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $14}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $16}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $17}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $119}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $5}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $4}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $3}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $2}'
+cd D8192\&U8192
+sudo wondershaper -a lo -u 8192 -d 8192
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $1}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $7}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $8}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $9}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | awk '{print $10}'
+cat file* | sed '/^ / d' | sed 's/|/ /'  | cut -f2
+cat file* | sed '/^ / d' | sed 's/|/ /'  | cut -f 2
+cat file* | sed '/^ / d' | sed 's/|/ /'  | cut -f 1
+cat file* | sed '/^ / d' |tr -s ' ' | cut -d ' ' -f 6
+cat file* | sed '/^ / d' |tr -s ' ' | cut -d ' ' -f 5
+cat file* | sed '/^al / d' |tr -s ' ' 
+cat file* | sed '/^ / d' |tr -s ' ' 
+cat file* 
+z
+cat file* | sed '/^ / d' |tr -s ' '
+cat file* | sed '/^ / d' |tr -s ' ' | cut -d ' ' -f 4
+cat file* | sed '/^ / d' |tr -s ' ' | cut -d ' ' -f 7
+cat file* | sed '/^ / d' |tr -s ' ' | cut -d ' ' -f 8
+cat file* | sed '/^ / d' |tr -s ' ' | cut -d ' ' -f 10
+cat file* | sed '/^ / d' |tr -s ' ' | cut -d ' ' -f 9
+cat file* | sed '/^ / d' 
+cat file* | sed '/^ / d'  > result
+cat file* | sed '/^M / d'  > result
+cat file* | sed '/^ / d' | sed '/ | cut -d ' ' -f 9\
+'
+cat file* | sed '/^ / d' | sed '/^M / d'| cut -d ' ' -f 9
+cat file* | sed '/^ / d' | sed '/^M / d'| cut -d ' ' -f 7
+cat file* | sed '/^ / d' | sed '/^M / d'| cut -d ' ' -f 5
+cat file* | sed '/^ / d' | sed '/^M / d'| cut -d ' ' -f 4
+cat file* | sed '/^ / d' | sed '/^M / d'
+cat file* | sed '/^ / d' | sed '/^M / d'| cut -f 1
+cat file* | sed '/^ / d' | sed '/^M / d'| cut -f 2
+cat file* | sed '/^ / d' | sed '/^M / d' | tr -s ' ' | cut -d ' ' -f 4
+cat file* | sed '/^ / d' | sed '/^M / d' | tr -s ' ' | cut -d ' ' -f 5
+cat file* | sed '/^ / d' | sed '/^M / d' | tr -s ' ' | cut -d ' ' -f 6
+cat file* | sed '/^ / d' | sed '/^M / d' | tr -s ' ' | cut -d ' ' -f 7
+cat file* | sed '/^ / d' | sed '/^M / d' 
+cat file* | sed '/^ / d' | sed '/^M / d' > result
+cat result
+vim result
+cat file* | sed '/^ / d' | sed '/^M /^N d' > result
+cat file* | sed '/^ / d' | tr '^M' '\n'
+cat file* | sed '/^ / d' | tr '^M' '\n' |  \
+cat file* | sed '/^ / d' | tr '^M' '\n' | cut -f 3
+cat file* | sed '/^ / d' | tr '^M' '\n' |  \
+cat file* | sed '/^ / d' | tr '^M' '\n' | cut -f 2
+tmux attach -t p2p
+cd D8192\&U4096
+cat file* | sed '/^ / d' | sed 's/|/ /' 
+sudo wondershaper -a lo -u 4096 -d 8192
+= "48899+48406+48668+48587+48761+48535+49034+48376+48342+48681"
+= "486289/10"
+= "486289/8*1000"
+= "486289/8"
+cd D4096\&U4096
+sudo wondershaper -a lo -u 4096 -d 4096
+./curlrequst
+update
+cat file1
+gimp dh_1.webp
+pgrep curl
+gimp 902D2B53F1D64A19B070235FC2B86F61.webp
+cat file*
+= "48372+48455+48410+48528+48697+48472+48943+48344+49015"
+= "437236/10"
+= "48372+48455+48410+48528+48697+48472+48943+48344+49015+48582"
+= "485818]/10"
+= "485818/10"
+history -c
+history 
+git checkout viza-frontend-refactoring
+git checkout -b artback-frontend-refactoring 
+tmux 
+vim artback.csv
+vim artback.json
+cat artback.json
+sudo wondershaper -c -a lo  
+ls
+git reset CoursesEditContentUploadVideo.vue
+git reset CoursesEditContentUploadVideo.vue --force
+git reset CoursesEditContentUploadVideo.vue 
+git reset CoursesEditContentUploadVideo.vue --hard
+git reset ./CoursesEditContentUploadVideo.vue --hard
+tmux
+cd Code/PA1449/frontend/
+fuser -k 8081/tcp
+pacman -Qtd
+pacman -Rdd pacman -Qtd
+pacman -Rns $(pacman -Qtd)
+sudo pacman -Rns $(pacman -Qtd)
+sudo pacman -Rns $(pacman -Qtdq)
+echo $(pacman -Qtdq)
+npm install
+cd ..
+exit
+cd Code/PA1449/e-learning-backend
+sqlite3 ./db/database.sqlite
+redshift
+tmux attach -t 0
+tmux attach -t 1
+tmux attach -t 2
+fuser -k 8080/tcp
+cd ../e-learning-backend
+cat config/database_sample.json
+vim config/database_sample.json
+cp config/database_sample.json config/database.json
+npm run dev
+ehh
+git rebase --ours
+git rebase --ours --continue
+git checkout --theirs src/components/courses/CoursesVideoPresentation.vue
+git checkout --ours src/components/courses/CoursesMyCourses.vue
+git checkout --ours src/components/courses/CoursesViewCourses.vue
+remove chromium
+bc
+cal
+cal -3 
+sudo mv /etc/hosts /etc/hosts2
+sudo mv /etc/hosts2 /etc/hosts
+arandr
+reboot
+fuser -k 3000/tcp
+nmcli 
+wifi
+git add src/components/courses/CourseTreeView.vue
+git commit -m "Add treeview for the course view"
+git push
+git checkout artback-navigatebetween
+git rebase master
+git checkout --ours src/views/ViewCourses.vue
+git checkout --ours src/components/courses/CoursesHome.vue
+git checkout --theirs src/components/courses/CoursesHome.vue
+git add .
+git rebase --continue
+git push --force
+sqlite3 database.sqlite
+rm db/database.sqlite
+npm install 
+npm run migrate
+npm run seed-all
+npm start
+install chromium
+sqlite3 db/database.sqlite
+git checkout master
+git status
+git reset 
+git reset --hard
+git pull
+: 1554449029:0;./node_modules/.bin/vue-cli-service serve --mode production
+: 1555501589:0;cd ../e-learning-backend/
+: 1555501597:0;git pull
+: 1555501610:0;npm  run dev
+: 1555501854:0;npm migrate
+: 1555501859:0;npm run migrate
+: 1555501869:0;npm  run dev
+: 1555501873:0;fuser -k 3000/tcp
+: 1555501874:0;npm  run dev
+: 1556175101:0;npm install
+: 1556175117:0;cd ../frontend
+: 1556175120:0;npm install
+: 1556175206:0;npm install --save vue-star-rating
+: 1556175894:0;npm eslint --fix
+: 1556175900:0;npm run lint --fix
+: 1556873730:0;npm install vue-cookie --save
+: 1556876435:0;npm run lint --fix
+: 1556876441:0;git push
+: 1556882147:0;git push --force
+: 1556888556:0;git push

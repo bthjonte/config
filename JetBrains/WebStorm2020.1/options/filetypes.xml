@@ -1,0 +1,33 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="getMenu" type="PLAIN_TEXT" />
+      <mapping pattern="file2" type="PLAIN_TEXT" />
+      <mapping pattern=".modernizrrc" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
+      <mapping pattern="updateRating" type="PLAIN_TEXT" />
+      <mapping pattern="updateMenu" type="PLAIN_TEXT" />
+      <mapping pattern="finalMenu" type="PLAIN_TEXT" />
+      <mapping pattern="getRecipeByID" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="getRatings" type="PLAIN_TEXT" />
+      <mapping pattern="getAllRatings" type="PLAIN_TEXT" />
+      <mapping pattern="ratings" type="PLAIN_TEXT" />
+      <mapping pattern="lambda.yml" type="PLAIN_TEXT" />
+      <mapping pattern="getRating" type="PLAIN_TEXT" />
+      <mapping pattern="getRecipeWithRating" type="PLAIN_TEXT" />
+      <mapping pattern="getRecipe" type="PLAIN_TEXT" />
+      <mapping pattern="recipe" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+    </extensionMap>
+  </component>
+</application>

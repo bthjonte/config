@@ -1,0 +1,767 @@
+<project version="4">
+  <component name="FavoritesManager">
+    <favorites_list name="SenseView" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmd/senseviewsouth/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/senseviewcore/error.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <element signature="e#23#49#0" expanded="true" />
+                <element signature="n#!!block;n#Error#0" />
+                <element signature="e#831#847#0" expanded="true" />
+                <element signature="e#898#918#0" expanded="true" />
+                <element signature="e#946#976#0" expanded="true" />
+                <element signature="n#!!block;n#ErrorMessage#0" />
+                <element signature="e#1121#1144#0" expanded="true" />
+                <element signature="e#1172#1205#0" expanded="true" />
+                <element signature="e#1517#1574#0" />
+                <element signature="n#!!block;n#Error#2" />
+                <element signature="n#!!block;n#Error#4" />
+                <element signature="e#2234#2267#0" />
+                <element signature="n#!!block;n#Error#5" />
+                <element signature="e#2633#2690#0" />
+                <element signature="n#!!block;n#Error#7" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>convert</find>
+      <find>io.Writer</find>
+      <find>soil</find>
+      <find>invalid toke</find>
+      <find>Int</find>
+      <find>internal.Err</find>
+      <find>Err.</find>
+      <find>ErrInternal</find>
+      <find>invalid device</find>
+      <find>const op</find>
+      <find>device</find>
+      <find>fmt.Errorf</find>
+      <find>error</find>
+      <find>/senseview-core/</find>
+      <find>/senseview_core/</find>
+      <find>/senseview_south/</find>
+      <find>&amp;senseview_core</find>
+      <find>encoding/hex: odd length hex string</find>
+      <find>device id</find>
+      <find>fmt</find>
+      <find>Errorf</find>
+      <find>fmt.</find>
+      <find>fmt.Erro</find>
+      <find>fmt.ErrorF</find>
+      <find>errors.New</find>
+      <find>errors.</find>
+      <find>errors</find>
+      <find>&amp;InvalidError</find>
+      <find>s.repo.WithPerm</find>
+      <find>config</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>talkpool</replace>
+      <replace>/senseview_core/</replace>
+      <replace>/senseviewcore/</replace>
+      <replace>/senseviewsouth/</replace>
+      <replace>&amp;senseviewcore</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/swagger-ui</dir>
+      <dir>$PROJECT_DIR$/internal/entity/sensefarm</dir>
+      <dir>$PROJECT_DIR$/senseview-core/pkg</dir>
+      <dir>$PROJECT_DIR$/senseview-core/pkg/api/auth</dir>
+      <dir>$PROJECT_DIR$/senseviewcore</dir>
+      <dir>$PROJECT_DIR$/senseviewcore/</dir>
+      <dir>$PROJECT_DIR$/senseviewsouth</dir>
+      <dir>$PROJECT_DIR$/senseviewcore/pkg/public</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/device/update.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/storage/pg/devices.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/storage/pg/project.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/storage/pg/group.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/storage/mocks/GroupRepository.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/storage/pg/ruleset.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/storage/pg/uplinks.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/storage/memory/devices.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/storage/memory/group.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/storage/memory/insight.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/storage/memory/uplinks.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/storage/uplink.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/device/service_test.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/project/error.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/api/rest/projects.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/allbinary/allbinary.go" />
+        <option value="$PROJECT_DIR$/internal/entity/group.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/api/auth/handler.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/api/rest/error.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/api/auth/auth0.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/api/rest/ruleset.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/api/rest/insights.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/abeeway/abeeway.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/ambiductor/ambiductor.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/decentlab/decentlab.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/ellenex/ellenex.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/sensinglabs/slcodec/slcodec.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/error.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/sensinglabs/sensinglabs.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/api/rest/handler.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/storage/pg/insight.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/error.go" />
+        <option value="$PROJECT_DIR$/tools/dxapi/cmd/update.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/api/rest/groups.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/api/group/group.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/insight/service.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/project/service.go" />
+        <option value="$PROJECT_DIR$/senseviewsouth/pkg/ns/thingpark/thingpark.go" />
+        <option value="$PROJECT_DIR$/senseviewsouth/pkg/ns/blink/blink.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/ruleset/ruleset.go" />
+        <option value="$PROJECT_DIR$/tools/sensor_sim/main.go" />
+        <option value="$PROJECT_DIR$/internal/entity/manufacturer/devicemanufacturer.go" />
+        <option value="$PROJECT_DIR$/internal/entity/device.go" />
+        <option value="$PROJECT_DIR$/internal/entity/service/service.go" />
+        <option value="$PROJECT_DIR$/internal/entity/ruleset/db.go" />
+        <option value="$PROJECT_DIR$/go.mod" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/api/auth/error.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/api/auth/auth.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/storage/group.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/api/rest/public.go" />
+        <option value="$PROJECT_DIR$/senseviewcore/pkg/device/error.go" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="-1" y="-1" width="2562" height="1442" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SenseView" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ioe-senseview-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SenseView" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ioe-senseview-core" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SenseView" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ioe-senseview-core" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+              <item name="workflows" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SenseView" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ioe-senseview-core" type="462c0819:PsiDirectoryNode" />
+              <item name="cmd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SenseView" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ioe-senseview-core" type="462c0819:PsiDirectoryNode" />
+              <item name="cmd" type="462c0819:PsiDirectoryNode" />
+              <item name="senseviewsouth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SenseView" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ioe-senseview-core" type="462c0819:PsiDirectoryNode" />
+              <item name="senseviewcore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SenseView" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ioe-senseview-core" type="462c0819:PsiDirectoryNode" />
+              <item name="senseviewsouth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SenseView" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ioe-senseview-core" type="462c0819:PsiDirectoryNode" />
+              <item name="go.mod" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="SenseView" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-6" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="go_test_github_com_allbin_ioe-senseview-core_senseviewcore_internal_utils - 2020.05.28 at 14h 40m 17s.xml">
+      <configuration name="go test github.com/allbin/ioe-senseview-core/senseviewcore/internal/utils" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestTalkpoolDecode_in_github_com_allbin_ioe-senseview-core_senseviewcore_pkg_decoding_decoders_talkpool - 2020.05.28 at 14h 41m 37s.xml">
+      <configuration name="TestTalkpoolDecode in github.com/allbin/ioe-senseview-core/senseviewcore/pkg/decoding/decoders/talkpool" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestTalkpool_errors_in_github_com_allbin_ioe-senseview-core_senseviewcore_pkg_decoding_decoders_talkpool - 2020.05.28 at 14h 41m 53s.xml">
+      <configuration name="TestTalkpool_errors in github.com/allbin/ioe-senseview-core/senseviewcore/pkg/decoding/decoders/talkpool" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestTalkpool_errors_in_github_com_allbin_ioe-senseview-core_senseviewcore_pkg_decoding_decoders_talkpool - 2020.05.28 at 14h 41m 56s.xml">
+      <configuration name="TestTalkpool_errors in github.com/allbin/ioe-senseview-core/senseviewcore/pkg/decoding/decoders/talkpool" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestTalkpool_errors_in_github_com_allbin_ioe-senseview-core_senseviewcore_pkg_decoding_decoders_talkpool - 2020.05.28 at 14h 42m 32s.xml">
+      <configuration name="TestTalkpool_errors in github.com/allbin/ioe-senseview-core/senseviewcore/pkg/decoding/decoders/talkpool" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_github_com_allbin_ioe-senseview-core_senseviewcore_pkg_device - 2020.05.29 at 10h 16m 19s.xml">
+      <configuration name="go test github.com/allbin/ioe-senseview-core/senseviewcore/pkg/device" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_github_com_allbin_ioe-senseview-core_senseviewcore_pkg_device - 2020.05.29 at 10h 16m 32s.xml">
+      <configuration name="go test github.com/allbin/ioe-senseview-core/senseviewcore/pkg/device" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_github_com_allbin_ioe-senseview-core_senseviewcore_pkg_device - 2020.05.29 at 10h 18m 02s.xml">
+      <configuration name="go test github.com/allbin/ioe-senseview-core/senseviewcore/pkg/device" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_github_com_allbin_ioe-senseview-core_senseviewcore_pkg_device - 2020.05.29 at 10h 18m 30s.xml">
+      <configuration name="go test github.com/allbin/ioe-senseview-core/senseviewcore/pkg/device" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="go_test_github_com_allbin_ioe-senseview-core_senseviewcore_pkg_device - 2020.05.29 at 10h 18m 47s.xml">
+      <configuration name="go test github.com/allbin/ioe-senseview-core/senseviewcore/pkg/device" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Commit" order="4" sideWeight="0.8174123" weight="0.22248995" />
+      <window_info anchor="bottom" id="Services" order="11" weight="0.32796934" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4993954" visible="true" weight="0.42561984" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32796934" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3616858" />
+      <window_info anchor="right" id="make" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32690826" />
+      <window_info id="Learn" order="2" weight="0.32932693" />
+      <window_info anchor="bottom" id="Flow" order="9" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="14" />
+      <window_info anchor="bottom" id="Terminal" order="16" weight="0.3203065" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.64827585" />
+      <window_info anchor="bottom" id="Database Changes" order="12" weight="0.32794458" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.49655172" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" weight="0.2505747" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.3264368" />
+      <window_info id="Favorites" order="3" sideWeight="0.18258767" side_tool="true" weight="0.21714744" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Commit" order="4" sideWeight="0.8174123" weight="0.22248995" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.49655172" />
+      <window_info anchor="bottom" id="Services" order="11" weight="0.32796934" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31177828" />
+      <window_info id="Favorites" order="3" sideWeight="0.18258767" side_tool="true" weight="0.21714744" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4993954" visible="true" weight="0.17429718" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32796934" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32717475" />
+      <window_info anchor="right" id="make" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Flow" order="9" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="14" />
+      <window_info anchor="bottom" id="Terminal" order="16" weight="0.5496536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.64827585" />
+      <window_info anchor="bottom" id="Database Changes" order="12" weight="0.32794458" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" weight="0.2505747" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32794458" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Learn" order="2" weight="0.32932693" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/storage/uplink.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/storage/memory/uplinks.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="e#647#722#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/storage/memory/devices.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="110" column="28" selection-start-line="110" selection-start-column="28" selection-end-line="110" selection-end-column="28" />
+          <folding>
+            <element signature="e#1793#1871#0" expanded="true" />
+            <element signature="e#2686#2708#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/device/service_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#21#701#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/project/error.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/api/rest/projects.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="92" column="93" selection-start-line="92" selection-start-column="93" selection-end-line="92" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/allbinary/allbinary.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="e#666#763#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/entity/group.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#730#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/api/auth/handler.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="77" column="92" selection-start-line="77" selection-start-column="92" selection-end-line="77" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/api/rest/handler_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/api/rest/error.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/api/auth/auth0.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/api/rest/ruleset.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="120" column="20" selection-start-line="120" selection-start-column="20" selection-end-line="120" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/go/src/net/http/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="2028" column="5" selection-start-line="2028" selection-start-column="5" selection-end-line="2028" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/api/rest/insights.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="93" column="119" selection-start-line="93" selection-start-column="119" selection-end-line="93" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/ambiductor/ambiductor.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/abeeway/abeeway.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/decentlab/decentlab.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/ellenex/ellenex.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/sensinglabs/slcodec/slcodec.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="97" column="8" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/error.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+          <folding>
+            <element signature="e#1077#1222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/api/rest/handler.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="180" column="21" selection-start-line="180" selection-start-column="21" selection-end-line="180" selection-end-column="21" />
+          <folding>
+            <element signature="e#8305#8372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/storage/pg/insight.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
+          <folding>
+            <element signature="e#2142#2185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/dxapi/cmd/update.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="112" column="83" selection-start-line="112" selection-start-column="83" selection-end-line="112" selection-end-column="83" />
+          <folding>
+            <element signature="e#2091#2132#0" expanded="true" />
+            <element signature="e#2637#2678#0" expanded="true" />
+            <element signature="e#3058#3135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/decoding/decoders/sensinglabs/sensinglabs.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/insight/service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="101" column="32" selection-start-line="101" selection-start-column="32" selection-end-line="101" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/project/service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="119" column="25" selection-start-line="119" selection-start-column="25" selection-end-line="119" selection-end-column="25" />
+          <folding>
+            <element signature="e#1444#1530#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewsouth/pkg/ns/thingpark/thingpark.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewsouth/pkg/ns/blink/blink.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="124" column="36" selection-start-line="124" selection-start-column="36" selection-end-line="124" selection-end-column="36" />
+          <folding>
+            <element signature="e#4833#4932#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/api/rest/groups.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.sum">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/entity/ruleset/db.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="883">
+          <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/entity/service/service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="85" column="57" selection-start-line="85" selection-start-column="57" selection-end-line="85" selection-end-column="57" />
+          <folding>
+            <element signature="e#2750#2836#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/entity/device.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal/entity/manufacturer/devicemanufacturer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+          <folding>
+            <element signature="e#22#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/ruleset/ruleset.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5670">
+          <caret line="249" column="25" selection-start-line="249" selection-start-column="25" selection-end-line="249" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/api/group/group.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/sensor_sim/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1971">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/api/auth/auth.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/internal/utils/groups.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="123" column="36" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!block;n#NewGroupUtil#0" />
+            <element signature="n#!!block;n#userCanWithGroups#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/storage/group.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/api/rest/public.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/api/auth/error.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/pkg/device/error.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" selection-start-line="16" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/dxapi/cmd/config.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="e#952#981#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/google.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/release.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/pr.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmd/senseviewsouth/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senseviewcore/error.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#23#49#0" expanded="true" />
+            <element signature="n#!!block;n#Error#0" />
+            <element signature="e#831#847#0" expanded="true" />
+            <element signature="e#898#918#0" expanded="true" />
+            <element signature="e#946#976#0" expanded="true" />
+            <element signature="n#!!block;n#ErrorMessage#0" />
+            <element signature="e#1121#1144#0" expanded="true" />
+            <element signature="e#1172#1205#0" expanded="true" />
+            <element signature="e#1517#1574#0" />
+            <element signature="n#!!block;n#Error#2" />
+            <element signature="n#!!block;n#Error#4" />
+            <element signature="e#2234#2267#0" />
+            <element signature="n#!!block;n#Error#5" />
+            <element signature="e#2633#2690#0" />
+            <element signature="n#!!block;n#Error#7" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Core</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="Core" />
+            <scope name="South" />
+          </order>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

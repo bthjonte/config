@@ -1,0 +1,337 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://v3.gtfs-query.allbin.se/departures/place?k=127fefa36c6e7e35cde4396110cb944382dae914&adress=kroggardesvagen",
+		"timestamp": 1588166096804
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.67.0 OpenSSL/1.1.1d zlib/1.2.11 nghttp2/1.29.0",
+		"timestamp": 1588166096804
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2020-04-29T13:14:56.804Z",
+		"timestamp": 1588166096804
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1588166096804
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1588166096805
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1588166096805
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1588166096814
+	},
+	{
+		"name": "TEXT",
+		"value": "Too old connection (281 seconds), disconnect it\n",
+		"timestamp": 1588166096824
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection 4 seems to be dead!\n",
+		"timestamp": 1588166096824
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 4\n",
+		"timestamp": 1588166096824
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (OUT), TLS alert, close notify (256):\n",
+		"timestamp": 1588166096824
+	},
+	{
+		"name": "TEXT",
+		"value": "Too old connection (281 seconds), disconnect it\n",
+		"timestamp": 1588166096827
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection 3 seems to be dead!\n",
+		"timestamp": 1588166096827
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 3\n",
+		"timestamp": 1588166096827
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 35.198.177.222:80...\n",
+		"timestamp": 1588166096849
+	},
+	{
+		"name": "TEXT",
+		"value": "TCP_NODELAY set\n",
+		"timestamp": 1588166096849
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to v3.gtfs-query.allbin.se (35.198.177.222) port 80 (#5)\n",
+		"timestamp": 1588166096968
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "GET /departures/place?k=127fefa36c6e7e35cde4396110cb944382dae914&adress=kroggardesvagen HTTP/1.1\r\nHost: v3.gtfs-query.allbin.se\r\nUser-Agent: insomnia/7.1.1\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1588166096968
+	},
+	{
+		"name": "TEXT",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1588166097048
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 302 Found\r\n",
+		"timestamp": 1588166097048
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Location: https://v3.gtfs-query.allbin.se:443/departures/place?k=127fefa36c6e7e35cde4396110cb944382dae914&adress=kroggardesvagen\r\n",
+		"timestamp": 1588166097048
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Wed, 29 Apr 2020 13:14:57 GMT\r\n",
+		"timestamp": 1588166097048
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 5\r\n",
+		"timestamp": 1588166097048
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: text/plain; charset=utf-8\r\n",
+		"timestamp": 1588166097048
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1588166097049
+	},
+	{
+		"name": "TEXT",
+		"value": "Ignoring the response-body\n",
+		"timestamp": 1588166097049
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 5 B chunk",
+		"timestamp": 1588166097049
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #5 to host v3.gtfs-query.allbin.se left intact\n",
+		"timestamp": 1588166097049
+	},
+	{
+		"name": "TEXT",
+		"value": "Issue another request to this URL: 'https://v3.gtfs-query.allbin.se:443/departures/place?k=127fefa36c6e7e35cde4396110cb944382dae914&adress=kroggardesvagen'\n",
+		"timestamp": 1588166097049
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 35.198.177.222:443...\n",
+		"timestamp": 1588166097350
+	},
+	{
+		"name": "TEXT",
+		"value": "TCP_NODELAY set\n",
+		"timestamp": 1588166097350
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to v3.gtfs-query.allbin.se (35.198.177.222) port 443 (#6)\n",
+		"timestamp": 1588166097380
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, offering h2\n",
+		"timestamp": 1588166097380
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1588166097380
+	},
+	{
+		"name": "TEXT",
+		"value": "successfully set certificate verify locations:\n",
+		"timestamp": 1588166097390
+	},
+	{
+		"name": "TEXT",
+		"value": "  CAfile: /tmp/insomnia_7.1.1/2017-09-20.pem\n  CApath: none\n",
+		"timestamp": 1588166097390
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1588166097390
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.3 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1588166097452
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1588166097452
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Server key exchange (12):\n",
+		"timestamp": 1588166097453
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Server finished (14):\n",
+		"timestamp": 1588166097453
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (OUT), TLS handshake, Client key exchange (16):\n",
+		"timestamp": 1588166097453
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1588166097453
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1588166097453
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1588166097485
+	},
+	{
+		"name": "TEXT",
+		"value": "SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256\n",
+		"timestamp": 1588166097485
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, server accepted to use h2\n",
+		"timestamp": 1588166097485
+	},
+	{
+		"name": "TEXT",
+		"value": "Server certificate:\n",
+		"timestamp": 1588166097485
+	},
+	{
+		"name": "TEXT",
+		"value": " subject: CN=v3.gtfs-query.allbin.se\n",
+		"timestamp": 1588166097486
+	},
+	{
+		"name": "TEXT",
+		"value": " start date: Apr 28 12:24:52 2020 GMT\n",
+		"timestamp": 1588166097486
+	},
+	{
+		"name": "TEXT",
+		"value": " expire date: Jul 27 12:24:52 2020 GMT\n",
+		"timestamp": 1588166097486
+	},
+	{
+		"name": "TEXT",
+		"value": " subjectAltName: host \"v3.gtfs-query.allbin.se\" matched cert's \"v3.gtfs-query.allbin.se\"\n",
+		"timestamp": 1588166097486
+	},
+	{
+		"name": "TEXT",
+		"value": " issuer: C=US; O=Let's Encrypt; CN=Let's Encrypt Authority X3\n",
+		"timestamp": 1588166097486
+	},
+	{
+		"name": "TEXT",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1588166097486
+	},
+	{
+		"name": "TEXT",
+		"value": "Using HTTP2, server supports multi-use\n",
+		"timestamp": 1588166097486
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection state changed (HTTP/2 confirmed)\n",
+		"timestamp": 1588166097486
+	},
+	{
+		"name": "TEXT",
+		"value": "Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0\n",
+		"timestamp": 1588166097486
+	},
+	{
+		"name": "TEXT",
+		"value": "Using Stream ID: 1 (easy handle 0x14200aabd000)\n",
+		"timestamp": 1588166097486
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "GET /departures/place?k=127fefa36c6e7e35cde4396110cb944382dae914&adress=kroggardesvagen HTTP/2\r\nHost: v3.gtfs-query.allbin.se\r\nuser-agent: insomnia/7.1.1\r\naccept: */*\r\n\r\n",
+		"timestamp": 1588166097486
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection state changed (MAX_CONCURRENT_STREAMS == 250)!\n",
+		"timestamp": 1588166097486
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/2 502 \r\n",
+		"timestamp": 1588166098042
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-type: text/plain; charset=utf-8\r\n",
+		"timestamp": 1588166098042
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-length: 11\r\n",
+		"timestamp": 1588166098042
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "date: Wed, 29 Apr 2020 13:14:58 GMT\r\n",
+		"timestamp": 1588166098042
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1588166098042
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 11 B chunk",
+		"timestamp": 1588166098042
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #6 to host v3.gtfs-query.allbin.se left intact\n",
+		"timestamp": 1588166098043
+	}
+]

@@ -1,0 +1,177 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://v3.gtfs-query.allbin.se/departures/place?k=127fefa36c6e7e35cde4396110cb944382dae914&lat=15.35&lon=56.9",
+		"timestamp": 1588168283413
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.67.0 OpenSSL/1.1.1d zlib/1.2.11 nghttp2/1.29.0",
+		"timestamp": 1588168283413
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2020-04-29T13:51:23.413Z",
+		"timestamp": 1588168283413
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1588168283413
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1588168283413
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1588168283413
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1588168283417
+	},
+	{
+		"name": "TEXT",
+		"value": "Found bundle for host v3.gtfs-query.allbin.se: 0x1497c9418ae0 [serially]\n",
+		"timestamp": 1588168283421
+	},
+	{
+		"name": "TEXT",
+		"value": "Can not multiplex, even if we wanted to!\n",
+		"timestamp": 1588168283421
+	},
+	{
+		"name": "TEXT",
+		"value": "Re-using existing connection! (#4) with host v3.gtfs-query.allbin.se\n",
+		"timestamp": 1588168283421
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to v3.gtfs-query.allbin.se (35.198.177.222) port 80 (#4)\n",
+		"timestamp": 1588168283421
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "GET /departures/place?k=127fefa36c6e7e35cde4396110cb944382dae914&lat=15.35&lon=56.9 HTTP/1.1\r\nHost: v3.gtfs-query.allbin.se\r\nUser-Agent: insomnia/7.1.1\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1588168283421
+	},
+	{
+		"name": "TEXT",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 302 Found\r\n",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Location: https://v3.gtfs-query.allbin.se:443/departures/place?k=127fefa36c6e7e35cde4396110cb944382dae914&lat=15.35&lon=56.9\r\n",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Wed, 29 Apr 2020 13:51:23 GMT\r\n",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 5\r\n",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: text/plain; charset=utf-8\r\n",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "TEXT",
+		"value": "Ignoring the response-body\n",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 5 B chunk",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #4 to host v3.gtfs-query.allbin.se left intact\n",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "TEXT",
+		"value": "Issue another request to this URL: 'https://v3.gtfs-query.allbin.se:443/departures/place?k=127fefa36c6e7e35cde4396110cb944382dae914&lat=15.35&lon=56.9'\n",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "TEXT",
+		"value": "Found bundle for host v3.gtfs-query.allbin.se: 0x1497c95c2780 [can multiplex]\n",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "TEXT",
+		"value": "Re-using existing connection! (#5) with host v3.gtfs-query.allbin.se\n",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to v3.gtfs-query.allbin.se (35.198.177.222) port 443 (#5)\n",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "TEXT",
+		"value": "Using Stream ID: 3 (easy handle 0x1497c91b3000)\n",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "GET /departures/place?k=127fefa36c6e7e35cde4396110cb944382dae914&lat=15.35&lon=56.9 HTTP/2\r\nHost: v3.gtfs-query.allbin.se\r\nuser-agent: insomnia/7.1.1\r\naccept: */*\r\n\r\n",
+		"timestamp": 1588168283445
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/2 200 \r\n",
+		"timestamp": 1588168283546
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-type: application/json\r\n",
+		"timestamp": 1588168283546
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "date: Wed, 29 Apr 2020 13:51:23 GMT\r\n",
+		"timestamp": 1588168283546
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "content-length: 5\r\n",
+		"timestamp": 1588168283546
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1588168283546
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 5 B chunk",
+		"timestamp": 1588168283546
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #5 to host v3.gtfs-query.allbin.se left intact\n",
+		"timestamp": 1588168283547
+	}
+]

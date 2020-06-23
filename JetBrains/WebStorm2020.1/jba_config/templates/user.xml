@@ -1,0 +1,27 @@
+<templateSet group="user">
+  <template name="refc" value="import React from 'react';&#10;import { makeStyles, Theme } from '@material-ui/core';&#10;&#10;&#10;interface Props {&#10;}&#10;&#10;const useStyles = makeStyles((theme: Theme) =&gt; ({&#10;    content: {&#10;    },&#10;}));&#10;&#10;const $component$: React.FunctionComponent&lt;Props&gt; = () =&gt; {&#10;    const classes = useStyles();&#10;    return (&#10;        &lt;div className={classes.content}&gt;&#10;&#10;        &lt;/div&gt;&#10;    );&#10;};&#10;&#10;&#10;export default $component$;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="component" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSP" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="typo" value="                &lt;Typography variant=&quot;$variant$&quot;&gt;&#10;                    {oh.translate($translate$)}&#10;                &lt;/Typography&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="variant" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="translate" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="oh" value="import oh from 'output-helpers';" description="" toReformat="false" toShortenFQNames="true" />
+  <template name="col" value="console.log($log$,$log2$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="log" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="log2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

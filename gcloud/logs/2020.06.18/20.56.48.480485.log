@@ -1,0 +1,32 @@
+2020-06-18 20:56:48,481 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2020-06-18 20:56:48,482 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'config_helper']
+2020-06-18 20:56:48,484 DEBUG    root            Running [gcloud.config.config-helper] with arguments: [--format: "json"]
+2020-06-18 20:56:48,528 INFO     oauth2client.client Refreshing access_token
+2020-06-18 20:56:48,684 INFO     root            Display format: "default json"
+2020-06-18 20:56:48,686 INFO     ___FILE_ONLY___ {
+  "configuration": {
+    "active_configuration": "default",
+    "properties": {
+      "compute": {
+        "region": "europe-west3",
+        "zone": "europe-west3-a"
+      },
+      "core": {
+        "account": "jonemail21@gmail.com",
+        "disable_usage_reporting": "True",
+        "project": "roxtec-dev-contentpublisher"
+      }
+    }
+  },
+  "credential": {
+    "access_token": "ya29.a0AfH6SMCbpY4hT7f7wHgqvV8K01j2zcidjGiVyQWm9QEtwTzih0af_vkz2g8lRdlEL4LgVowBdEr3eni2tze-Zcjp4yWhnAqBls0vIQY3f6I2aEPU7fMWMF4YBbW-CKUIWZc6rXW0OIOK1zY4_gFUpMRFkd8DaQLHBaJGq5Wg-EKrbw",
+    "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImIxNmRlMWIyYWIwYzE2YWMwYWNmNjYyZWYwMWY3NTY3ZTU0NDI1MmEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIzMjU1NTk0MDU1OS5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsImF1ZCI6IjMyNTU1OTQwNTU5LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE3MjE2ODIxMDA5OTI4Nzk5NzE3IiwiZW1haWwiOiJqb25lbWFpbDIxQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoidFBLeU9Ja3c1SzZURDFOOE9ydTRyQSIsImlhdCI6MTU5MjUwNjYwOCwiZXhwIjoxNTkyNTEwMjA4fQ.bk0arkIHBO7_g6eRQ5hOKPXPJ-5rARC63pY4PpvyVoD-Mujf670SYd2Uoz3pcZdYA62rK75bAOlFOJk6CyBrO6DR9yF3AusP6l6D-ndsOnHrjUferQCfX3ydVoWEY5OrpAdYTEc8DDwVlYmLqm0HZCy3Qq3fCPhkD2n2cm--wBAqVzdfyzpQpiD6eTpkvJznPFxBZyiuL6oHC0JO5n09WL9wy-XjhOZ2foOQ3rcqim5bkRPo3MymMUIewoX25IjgDyra9uv6ASHfXHaPyTGl_sDXpvIp8qs3ItRTAebZPFEjptRucP7sEyrEuCEnjBBkq8YGkDHssVA_D_LAwX4m-A",
+    "token_expiry": "2020-06-18T19:56:47Z"
+  },
+  "sentinels": {
+    "config_sentinel": "/home/freak/.config/gcloud/config_sentinel"
+  }
+}
+2020-06-18 20:56:48,686 INFO     ___FILE_ONLY___ 
+
+2020-06-18 20:56:48,687 DEBUG    root            SDK update checks are disabled.

@@ -1,0 +1,31 @@
+2020-06-18 16:21:44,868 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2020-06-18 16:21:44,869 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'config_helper']
+2020-06-18 16:21:44,871 DEBUG    root            Running [gcloud.config.config-helper] with arguments: [--format: "json"]
+2020-06-18 16:21:44,873 INFO     root            Display format: "default json"
+2020-06-18 16:21:44,873 INFO     ___FILE_ONLY___ {
+  "configuration": {
+    "active_configuration": "default",
+    "properties": {
+      "compute": {
+        "region": "europe-west3",
+        "zone": "europe-west3-a"
+      },
+      "core": {
+        "account": "jonemail21@gmail.com",
+        "disable_usage_reporting": "True",
+        "project": "roxtec-dev-contentpublisher"
+      }
+    }
+  },
+  "credential": {
+    "access_token": "ya29.a0AfH6SMBp4jZY9YebzcsPkUIlkgO5xVvrqB4mJkxJNvSuo3OBoQQ3Q6ZKjRNNQ_k8gWkgbnkbcINRX88L7gJNDiqmjNOARjr_cOYgZb6ZwQ35r6HU2N7aL3240TU1a_phvbx3qs4t383XQuH8ezdYy4jNlU_YKxVevH9wT-h1y_Y4og",
+    "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImIxNmRlMWIyYWIwYzE2YWMwYWNmNjYyZWYwMWY3NTY3ZTU0NDI1MmEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIzMjU1NTk0MDU1OS5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsImF1ZCI6IjMyNTU1OTQwNTU5LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE3MjE2ODIxMDA5OTI4Nzk5NzE3IiwiZW1haWwiOiJqb25lbWFpbDIxQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiM1NhN1g4Wk45Y1NhaFR4NTVoXzZlQSIsImlhdCI6MTU5MjQ5MDEwMywiZXhwIjoxNTkyNDkzNzAzfQ.hhFT7OmqzYT6cEA6KMVeSyO0C5ifzK5dA7wCHKn7AylWFJiQEnQYOvee_5QMr1aIZsPzI9QmVJCbC-2mmTIi-Pxr0mGpfSNUVv5ugJ_JzPeWjcgFKnXAk34sPgBrwLVDagvA4LyOsHAigEK9RT2qget_G6rXpmbXshjAmqyf5yaNWJRSeYNlpfJUKLQeq1fZzx57Qhb7Ft989guN9TLM_ReZ4WSlxc51NeM0NIs3Wf8oEdd8MnoDP7OsojqHRoKmOEZp1HOWpX0sl8_PbKMbSQ4iSrwAa-LgDLwTphXWY87IuMouB56EZ67WeAMpziC16sKggamm8qU2-HA8dw-60Q",
+    "token_expiry": "2020-06-18T15:21:42Z"
+  },
+  "sentinels": {
+    "config_sentinel": "/home/freak/.config/gcloud/config_sentinel"
+  }
+}
+2020-06-18 16:21:44,874 INFO     ___FILE_ONLY___ 
+
+2020-06-18 16:21:44,874 DEBUG    root            SDK update checks are disabled.
